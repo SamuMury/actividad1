@@ -1,0 +1,1011 @@
+ID_Admision,Hospital,Nivel_Triage,Especialidad,Tiempo_Espera_Min,Costo_Procedimiento,Edad_Paciente,Destino_Alta
+ADM-3001,Hospital Infantil,Triage II,Medicina Interna,90.0,350000.0,29,Domicilio
+ADM-3002,Hospital San Isidro,Triage II,Cirugía,45.0,,9,Hospitalización
+ADM-3003,Clínica San Marcel,Triage IV,Pediatría,60.0,120000.0,67,Domicilio
+ADM-3004,Hospital Santa Sofía,Triage II,Pediatría,,240000.0,19,Domicilio
+ADM-3005,Hospital San Isidro,Triage II,Traumatología,60.0,800000.0,21,Observación
+ADM-3006,Hospital San Isidro,Triage II,Traumatología,45.0,520000.0,72,Domicilio
+ADM-3007,Clínica San Marcel,Triage IV,Cirugía,45.0,85000.0,62,Remisión
+ADM-3008,Hospital San Marcos,Triage III,Traumatología,60.0,85000.0,21,Observación
+ADM-3009,Clínica San Marcel,Triage II,Pediatría,90.0,85000.0,44,Hospitalización
+ADM-3010,Hospital Infantil,Triage IV,Medicina Interna,45.0,800000.0,10,Observación
+ADM-3011,Hospital Santa Sofía,Triage II,Medicina General,60.0,85000.0,18,Observación
+ADM-3012,Hospital San Isidro,Triage I,Medicina Interna,45.0,120000.0,61,Remisión
+ADM-3013,Clínica San Marcel,Triage III,Pediatría,45.0,350000.0,55,Observación
+ADM-3014,Hospital Santa Sofía,Triage I,Medicina Interna,45.0,800000.0,62,Observación
+ADM-3015,Hospital San Isidro,Triage I,Cirugía,25.0,120000.0,19,Domicilio
+ADM-3016,Hospital San Isidro,Triage III,Pediatría,10.0,240000.0,12,Observación
+ADM-3017,Hospital Santa Sofía,Triage III,Cirugía,180.0,350000.0,22,Domicilio
+ADM-3018,Clínica San Marcel,Triage IV,Traumatología,45.0,350000.0,73,Hospitalización
+ADM-3019,Hospital San Isidro,Triage II,Pediatría,10.0,120000.0,27,Hospitalización
+ADM-3020,Hospital San Isidro,Triage I,Pediatría,45.0,85000.0,89,Domicilio
+ADM-3021,Hospital Infantil,Triage IV,Cirugía,120.0,520000.0,11,Domicilio
+ADM-3022,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,120000.0,35,Domicilio
+ADM-3023,Hospital San Marcos,Triage III,Cirugía,25.0,120000.0,21,Domicilio
+ADM-3024,Hospital San Marcos,Triage II,Pediatría,25.0,85000.0,3,Domicilio
+ADM-3025,Hospital San Isidro,Triage IV,Medicina Interna,180.0,85000.0,8,Domicilio
+ADM-3026,Hospital San Isidro,Triage III,Pediatría,60.0,120000.0,8,Observación
+ADM-3027,Hospital Infantil,Triage II,Pediatría,10.0,120000.0,88,Domicilio
+ADM-3028,Hospital Infantil,Triage III,Medicina Interna,45.0,350000.0,66,Hospitalización
+ADM-3029,Hospital San Isidro,Triage I,Medicina General,10.0,240000.0,75,Observación
+ADM-3030,Clínica San Marcel,Triage II,Medicina General,,85000.0,47,Remisión
+ADM-3031,Hospital San Isidro,Triage III,Traumatología,25.0,120000.0,75,Observación
+ADM-3032,Hospital San Isidro,Triage IV,Medicina General,120.0,85000.0,24,Remisión
+ADM-3033,Clínica San Marcel,Triage II,Pediatría,60.0,520000.0,76,Hospitalización
+ADM-3034,Hospital San Marcos,Triage I,Medicina Interna,10.0,85000.0,81,Domicilio
+ADM-3035,Hospital San Marcos,Triage IV,Traumatología,10.0,520000.0,64,Domicilio
+ADM-3036,Hospital Infantil,Triage IV,Cirugía,45.0,350000.0,52,Observación
+ADM-3037,Hospital San Isidro,Triage I,Pediatría,120.0,85000.0,15,Domicilio
+ADM-3038,Clínica San Marcel,Triage III,Cirugía,60.0,240000.0,38,Domicilio
+ADM-3039,Hospital Santa Sofía,Triage II,Medicina Interna,10.0,240000.0,80,Domicilio
+ADM-3040,Hospital San Marcos,Triage III,Medicina Interna,25.0,120000.0,38,Domicilio
+ADM-3041,Hospital Infantil,Triage I,Medicina Interna,25.0,85000.0,72,Domicilio
+ADM-3042,Hospital Infantil,Triage III,Pediatría,10.0,85000.0,80,Observación
+ADM-3043,Hospital Infantil,Triage III,Traumatología,10.0,240000.0,68,Observación
+ADM-3044,Hospital San Marcos,Triage III,Pediatría,45.0,240000.0,5,Domicilio
+ADM-3045,Hospital Infantil,Triage III,Pediatría,45.0,85000.0,73,Domicilio
+ADM-3046,Clínica San Marcel,Triage III,Pediatría,60.0,800000.0,21,Domicilio
+ADM-3047,Clínica San Marcel,Triage III,Cirugía,120.0,120000.0,57,Domicilio
+ADM-3048,Clínica San Marcel,Triage II,Pediatría,25.0,85000.0,71,Domicilio
+ADM-3049,Hospital Infantil,Triage III,Pediatría,60.0,85000.0,50,Remisión
+ADM-3050,Hospital Infantil,Triage II,Cirugía,25.0,240000.0,59,Domicilio
+ADM-3051,Hospital Santa Sofía,Triage IV,Medicina Interna,45.0,520000.0,27,Hospitalización
+ADM-3052,Hospital Santa Sofía,Triage III,Traumatología,,120000.0,7,Domicilio
+ADM-3053,Hospital Infantil,Triage III,Medicina Interna,120.0,85000.0,47,Hospitalización
+ADM-3054,Hospital Santa Sofía,Triage III,Cirugía,45.0,240000.0,34,Hospitalización
+ADM-3055,Hospital San Marcos,Triage III,Pediatría,45.0,350000.0,8,Domicilio
+ADM-3056,Clínica San Marcel,Triage III,Medicina Interna,25.0,240000.0,41,Domicilio
+ADM-3057,Hospital San Marcos,Triage II,Pediatría,60.0,85000.0,76,Domicilio
+ADM-3058,Hospital Infantil,Triage I,Cirugía,25.0,85000.0,27,Domicilio
+ADM-3059,Hospital Infantil,Triage III,Cirugía,60.0,85000.0,9,Domicilio
+ADM-3060,Hospital Santa Sofía,Triage III,Medicina General,25.0,85000.0,30,Domicilio
+ADM-3061,Hospital San Isidro,Triage II,Cirugía,45.0,85000.0,51,Observación
+ADM-3062,Hospital Infantil,Triage III,Pediatría,60.0,120000.0,69,Domicilio
+ADM-3063,Hospital Infantil,Triage II,Cirugía,,120000.0,3,Observación
+ADM-3064,Hospital Infantil,Triage III,Medicina General,25.0,240000.0,55,Hospitalización
+ADM-3065,Hospital Santa Sofía,Triage III,Cirugía,10.0,120000.0,17,Observación
+ADM-3066,Hospital San Marcos,Triage III,Traumatología,25.0,85000.0,48,Remisión
+ADM-3067,Hospital Infantil,Triage IV,Cirugía,45.0,350000.0,25,Domicilio
+ADM-3068,Hospital Santa Sofía,Triage I,Medicina Interna,25.0,85000.0,56,Domicilio
+ADM-3069,Hospital San Marcos,Triage III,Cirugía,25.0,240000.0,89,Domicilio
+ADM-3070,Hospital Infantil,Triage III,Cirugía,25.0,120000.0,24,Observación
+ADM-3071,Clínica San Marcel,Triage IV,Traumatología,45.0,85000.0,57,Hospitalización
+ADM-3072,Hospital Santa Sofía,Triage IV,Pediatría,60.0,120000.0,71,Observación
+ADM-3073,Hospital Santa Sofía,Triage III,Cirugía,90.0,350000.0,30,Domicilio
+ADM-3074,Hospital Santa Sofía,Triage III,Pediatría,25.0,120000.0,66,Domicilio
+ADM-3075,Clínica San Marcel,Triage I,Traumatología,45.0,120000.0,47,Domicilio
+ADM-3076,Hospital Infantil,Triage III,Pediatría,10.0,120000.0,10,Hospitalización
+ADM-3077,Hospital San Isidro,Triage III,Medicina Interna,25.0,120000.0,51,Domicilio
+ADM-3078,Hospital San Isidro,Triage IV,Medicina Interna,10.0,350000.0,12,Remisión
+ADM-3079,Hospital San Marcos,Triage IV,Traumatología,120.0,120000.0,78,Hospitalización
+ADM-3080,Hospital San Marcos,Triage II,Medicina General,,240000.0,64,Domicilio
+ADM-3081,Hospital Infantil,Triage II,Traumatología,60.0,240000.0,16,Domicilio
+ADM-3082,Hospital San Marcos,Triage III,Pediatría,45.0,350000.0,9,Observación
+ADM-3083,Clínica San Marcel,Triage II,Pediatría,45.0,240000.0,31,Domicilio
+ADM-3084,Hospital San Isidro,Triage IV,Pediatría,45.0,120000.0,67,Domicilio
+ADM-3085,Hospital Infantil,Triage III,Traumatología,45.0,85000.0,41,Hospitalización
+ADM-3086,Clínica San Marcel,Triage III,Pediatría,45.0,240000.0,41,Domicilio
+ADM-3087,Clínica San Marcel,Triage I,Cirugía,45.0,85000.0,52,Remisión
+ADM-3088,Clínica San Marcel,Triage II,Cirugía,60.0,520000.0,32,Domicilio
+ADM-3089,Hospital San Isidro,Triage III,Cirugía,120.0,85000.0,45,Observación
+ADM-3090,Clínica San Marcel,Triage IV,Medicina General,60.0,350000.0,2,Domicilio
+ADM-3091,Hospital San Marcos,Triage II,Cirugía,25.0,,53,Observación
+ADM-3092,Hospital Santa Sofía,Triage III,Traumatología,60.0,350000.0,59,Observación
+ADM-3093,Hospital Infantil,Triage III,Cirugía,60.0,85000.0,44,Domicilio
+ADM-3094,Hospital Santa Sofía,Triage II,Medicina Interna,25.0,120000.0,82,Remisión
+ADM-3095,Hospital Santa Sofía,Triage III,Cirugía,25.0,240000.0,32,Domicilio
+ADM-3096,Hospital Santa Sofía,Triage IV,Cirugía,,85000.0,40,Domicilio
+ADM-3097,Hospital Infantil,Triage II,Medicina General,45.0,350000.0,65,Hospitalización
+ADM-3098,Hospital Santa Sofía,Triage IV,Traumatología,45.0,120000.0,19,Observación
+ADM-3099,Clínica San Marcel,Triage I,Cirugía,90.0,240000.0,57,Observación
+ADM-3100,Hospital Santa Sofía,Triage III,Medicina General,,240000.0,75,Hospitalización
+ADM-3101,Hospital San Isidro,Triage II,Medicina General,25.0,240000.0,69,Domicilio
+ADM-3102,Hospital San Marcos,Triage II,Traumatología,10.0,,7,Observación
+ADM-3103,Hospital Infantil,Triage IV,Medicina General,45.0,85000.0,67,Domicilio
+ADM-3104,Hospital Santa Sofía,Triage III,Traumatología,45.0,120000.0,42,Remisión
+ADM-3105,Clínica San Marcel,Triage III,Medicina General,120.0,85000.0,64,Domicilio
+ADM-3106,Hospital Infantil,Triage II,Cirugía,120.0,85000.0,54,Hospitalización
+ADM-3107,Clínica San Marcel,Triage III,Cirugía,60.0,800000.0,60,Remisión
+ADM-3108,Hospital San Marcos,Triage III,Medicina Interna,60.0,120000.0,31,Remisión
+ADM-3109,Hospital Infantil,Triage II,Pediatría,25.0,240000.0,85,Remisión
+ADM-3110,Hospital Infantil,Triage I,Pediatría,60.0,520000.0,16,Observación
+ADM-3111,Hospital Infantil,Triage II,Traumatología,90.0,85000.0,27,Observación
+ADM-3112,Hospital Infantil,Triage III,Medicina General,,85000.0,87,Observación
+ADM-3113,Hospital Infantil,Triage II,Cirugía,60.0,85000.0,5,Observación
+ADM-3114,Hospital Santa Sofía,Triage II,Medicina Interna,25.0,240000.0,58,Remisión
+ADM-3115,Hospital Infantil,Triage III,Traumatología,90.0,120000.0,7,Domicilio
+ADM-3116,Hospital Santa Sofía,Triage I,Pediatría,45.0,240000.0,65,Remisión
+ADM-3117,Hospital Santa Sofía,Triage III,Pediatría,25.0,350000.0,72,Observación
+ADM-3118,Hospital San Isidro,Triage I,Pediatría,45.0,800000.0,88,Domicilio
+ADM-3119,Clínica San Marcel,Triage III,Cirugía,10.0,85000.0,24,Domicilio
+ADM-3120,Hospital San Marcos,Triage II,Pediatría,,120000.0,59,Observación
+ADM-3121,Clínica San Marcel,Triage III,Cirugía,60.0,240000.0,68,Observación
+ADM-3122,Hospital San Isidro,Triage II,Traumatología,60.0,85000.0,22,Domicilio
+ADM-3123,Hospital Infantil,Triage III,Medicina General,,,43,Domicilio
+ADM-3124,Hospital Infantil,Triage III,Traumatología,60.0,240000.0,27,Observación
+ADM-3125,Hospital Santa Sofía,Triage III,Pediatría,60.0,120000.0,37,Observación
+ADM-3126,Hospital Santa Sofía,Triage II,Medicina General,180.0,240000.0,78,Observación
+ADM-3127,Hospital San Isidro,Triage I,Medicina Interna,60.0,85000.0,68,Domicilio
+ADM-3128,Hospital Infantil,Triage III,Medicina General,60.0,120000.0,16,Observación
+ADM-3129,Hospital San Marcos,Triage IV,Cirugía,180.0,350000.0,53,Hospitalización
+ADM-3130,Hospital Infantil,Triage III,Traumatología,45.0,120000.0,87,Domicilio
+ADM-3131,Hospital San Marcos,Triage III,Medicina General,,350000.0,29,Hospitalización
+ADM-3132,Hospital San Isidro,Triage I,Pediatría,60.0,350000.0,54,Remisión
+ADM-3133,Hospital Santa Sofía,Triage III,Traumatología,25.0,85000.0,41,Remisión
+ADM-3134,Hospital Infantil,Triage III,Medicina General,45.0,240000.0,56,Domicilio
+ADM-3135,Clínica San Marcel,Triage I,Traumatología,60.0,85000.0,2,Hospitalización
+ADM-3136,Hospital San Isidro,Triage III,Pediatría,,85000.0,75,Observación
+ADM-3137,Hospital San Marcos,Triage II,Medicina General,25.0,120000.0,38,Remisión
+ADM-3138,Hospital San Marcos,Triage III,Medicina General,90.0,120000.0,56,Domicilio
+ADM-3139,Hospital San Isidro,Triage III,Cirugía,60.0,240000.0,48,Observación
+ADM-3140,Hospital Infantil,Triage II,Medicina General,45.0,240000.0,44,Hospitalización
+ADM-3141,Clínica San Marcel,Triage II,Medicina General,10.0,120000.0,75,Observación
+ADM-3142,Hospital Infantil,Triage III,Pediatría,60.0,240000.0,59,Domicilio
+ADM-3143,Clínica San Marcel,Triage IV,Medicina Interna,10.0,520000.0,27,Observación
+ADM-3144,Hospital San Marcos,Triage III,Pediatría,45.0,800000.0,39,Domicilio
+ADM-3145,Clínica San Marcel,Triage IV,Traumatología,60.0,120000.0,78,Domicilio
+ADM-3146,Clínica San Marcel,Triage III,Traumatología,25.0,240000.0,19,Observación
+ADM-3147,Hospital Santa Sofía,Triage II,Medicina Interna,10.0,85000.0,34,Observación
+ADM-3148,Clínica San Marcel,Triage III,Medicina Interna,60.0,240000.0,11,Domicilio
+ADM-3149,Hospital Infantil,Triage II,Medicina General,25.0,520000.0,22,Remisión
+ADM-3150,Hospital Santa Sofía,Triage IV,Medicina Interna,10.0,350000.0,38,Observación
+ADM-3151,Hospital San Marcos,Triage IV,Traumatología,90.0,120000.0,87,Hospitalización
+ADM-3152,Clínica San Marcel,Triage III,Pediatría,45.0,350000.0,29,Domicilio
+ADM-3153,Hospital Santa Sofía,Triage I,Cirugía,45.0,350000.0,67,Domicilio
+ADM-3154,Hospital San Marcos,Triage II,Traumatología,45.0,,27,Observación
+ADM-3155,Hospital Infantil,Triage IV,Cirugía,45.0,120000.0,56,Domicilio
+ADM-3156,Clínica San Marcel,Triage III,Cirugía,90.0,120000.0,86,Domicilio
+ADM-3157,Hospital San Isidro,Triage II,Pediatría,45.0,240000.0,59,Domicilio
+ADM-3158,Clínica San Marcel,Triage II,Cirugía,90.0,240000.0,66,Observación
+ADM-3159,Hospital Infantil,Triage IV,Pediatría,10.0,85000.0,88,Domicilio
+ADM-3160,Clínica San Marcel,Triage IV,Traumatología,60.0,520000.0,78,Remisión
+ADM-3161,Hospital Santa Sofía,Triage II,Cirugía,60.0,120000.0,18,Observación
+ADM-3162,Hospital San Isidro,Triage IV,Pediatría,90.0,120000.0,25,Domicilio
+ADM-3163,Hospital San Isidro,Triage III,Pediatría,,85000.0,32,Domicilio
+ADM-3164,Hospital San Isidro,Triage III,Traumatología,90.0,240000.0,27,Hospitalización
+ADM-3165,Hospital Infantil,Triage I,Pediatría,60.0,,78,Domicilio
+ADM-3166,Hospital Santa Sofía,Triage IV,Pediatría,25.0,85000.0,26,Domicilio
+ADM-3167,Hospital San Isidro,Triage III,Traumatología,60.0,350000.0,79,Domicilio
+ADM-3168,Hospital Infantil,Triage III,Cirugía,45.0,240000.0,71,Hospitalización
+ADM-3169,Hospital San Isidro,Triage III,Medicina Interna,10.0,120000.0,62,Domicilio
+ADM-3170,Hospital Santa Sofía,Triage IV,Traumatología,25.0,85000.0,5,Domicilio
+ADM-3171,Hospital San Isidro,Triage II,Cirugía,10.0,85000.0,69,Remisión
+ADM-3172,Hospital San Isidro,Triage III,Pediatría,120.0,120000.0,72,Observación
+ADM-3173,Hospital San Marcos,Triage IV,Cirugía,45.0,240000.0,71,Domicilio
+ADM-3174,Clínica San Marcel,Triage II,Medicina Interna,90.0,240000.0,6,Remisión
+ADM-3175,Hospital Santa Sofía,Triage II,Medicina Interna,60.0,800000.0,77,Domicilio
+ADM-3176,Hospital San Isidro,Triage III,Cirugía,45.0,350000.0,27,Domicilio
+ADM-3177,Hospital Infantil,Triage III,Pediatría,25.0,240000.0,61,Observación
+ADM-3178,Hospital San Marcos,Triage IV,Cirugía,10.0,85000.0,30,Domicilio
+ADM-3179,Hospital San Isidro,Triage I,Medicina Interna,90.0,350000.0,55,Observación
+ADM-3180,Hospital San Isidro,Triage IV,Pediatría,45.0,120000.0,15,Observación
+ADM-3181,Hospital San Marcos,Triage III,Traumatología,60.0,240000.0,25,Domicilio
+ADM-3182,Hospital Infantil,Triage III,Medicina Interna,25.0,350000.0,30,Observación
+ADM-3183,Hospital San Isidro,Triage III,Pediatría,10.0,240000.0,74,Remisión
+ADM-3184,Clínica San Marcel,Triage III,Cirugía,25.0,120000.0,57,Observación
+ADM-3185,Hospital Infantil,Triage II,Pediatría,90.0,240000.0,10,Domicilio
+ADM-3186,Clínica San Marcel,Triage II,Pediatría,60.0,85000.0,5,Domicilio
+ADM-3187,Hospital San Isidro,Triage IV,Cirugía,10.0,85000.0,82,Remisión
+ADM-3188,Hospital San Marcos,Triage I,Pediatría,45.0,85000.0,86,Observación
+ADM-3189,Hospital San Marcos,Triage IV,Pediatría,45.0,350000.0,71,Domicilio
+ADM-3190,Hospital Infantil,Triage III,Medicina Interna,60.0,520000.0,83,Observación
+ADM-3191,Clínica San Marcel,Triage I,Pediatría,25.0,85000.0,52,Hospitalización
+ADM-3192,Clínica San Marcel,Triage III,Medicina Interna,,120000.0,68,Domicilio
+ADM-3193,Hospital San Marcos,Triage II,Traumatología,25.0,85000.0,24,Observación
+ADM-3194,Hospital Infantil,Triage II,Medicina Interna,10.0,85000.0,52,Remisión
+ADM-3195,Hospital San Isidro,Triage III,Traumatología,60.0,120000.0,82,Domicilio
+ADM-3196,Hospital San Marcos,Triage IV,Medicina Interna,60.0,520000.0,60,Observación
+ADM-3197,Hospital San Marcos,Triage III,Cirugía,10.0,240000.0,35,Domicilio
+ADM-3198,Clínica San Marcel,Triage III,Medicina Interna,60.0,240000.0,39,Observación
+ADM-3199,Hospital Infantil,Triage II,Pediatría,45.0,85000.0,22,Remisión
+ADM-3200,Hospital Infantil,Triage II,Cirugía,45.0,240000.0,49,Remisión
+ADM-3201,Hospital Santa Sofía,Triage II,Medicina Interna,180.0,85000.0,59,Domicilio
+ADM-3202,Hospital San Marcos,Triage III,Pediatría,45.0,240000.0,55,Observación
+ADM-3203,Hospital San Isidro,Triage III,Pediatría,25.0,350000.0,17,Observación
+ADM-3204,Clínica San Marcel,Triage II,Cirugía,45.0,240000.0,31,Domicilio
+ADM-3205,Hospital Santa Sofía,Triage III,Medicina Interna,,520000.0,55,Observación
+ADM-3206,Hospital Infantil,Triage II,Cirugía,180.0,800000.0,14,Observación
+ADM-3207,Hospital San Marcos,Triage II,Medicina Interna,90.0,120000.0,48,Domicilio
+ADM-3208,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,85000.0,37,Remisión
+ADM-3209,Clínica San Marcel,Triage III,Medicina Interna,10.0,120000.0,32,Domicilio
+ADM-3210,Hospital Infantil,Triage III,Medicina General,10.0,520000.0,87,Remisión
+ADM-3211,Clínica San Marcel,Triage IV,Cirugía,45.0,85000.0,45,Domicilio
+ADM-3212,Hospital San Isidro,Triage III,Medicina General,25.0,350000.0,18,Observación
+ADM-3213,Hospital San Isidro,Triage II,Traumatología,45.0,240000.0,65,Observación
+ADM-3214,Hospital San Isidro,Triage III,Cirugía,60.0,240000.0,68,Remisión
+ADM-3215,Hospital San Isidro,Triage III,Medicina General,45.0,350000.0,14,Observación
+ADM-3216,Hospital Infantil,Triage III,Traumatología,45.0,85000.0,68,Domicilio
+ADM-3217,Hospital Santa Sofía,Triage II,Traumatología,60.0,240000.0,52,Domicilio
+ADM-3218,Clínica San Marcel,Triage III,Pediatría,25.0,120000.0,59,Domicilio
+ADM-3219,Hospital San Isidro,Triage III,Medicina General,60.0,120000.0,7,Observación
+ADM-3220,Hospital Infantil,Triage II,Traumatología,45.0,,73,Hospitalización
+ADM-3221,Clínica San Marcel,Triage III,Medicina Interna,25.0,240000.0,43,Hospitalización
+ADM-3222,Hospital Infantil,Triage II,Traumatología,60.0,350000.0,14,Domicilio
+ADM-3223,Hospital Infantil,Triage IV,Medicina General,,120000.0,66,Domicilio
+ADM-3224,Hospital San Marcos,Triage IV,Medicina General,60.0,85000.0,34,Domicilio
+ADM-3225,Hospital San Marcos,Triage III,Pediatría,60.0,120000.0,85,Domicilio
+ADM-3226,Hospital San Isidro,Triage IV,Cirugía,25.0,,19,Remisión
+ADM-3227,Clínica San Marcel,Triage III,Cirugía,60.0,120000.0,11,Hospitalización
+ADM-3228,Clínica San Marcel,Triage III,Medicina Interna,10.0,85000.0,47,Remisión
+ADM-3229,Clínica San Marcel,Triage II,Medicina General,45.0,240000.0,53,Domicilio
+ADM-3230,Clínica San Marcel,Triage III,Traumatología,,85000.0,87,Observación
+ADM-3231,Hospital Santa Sofía,Triage II,Medicina General,180.0,120000.0,12,Domicilio
+ADM-3232,Hospital San Marcos,Triage IV,Medicina General,25.0,240000.0,53,Domicilio
+ADM-3233,Hospital San Isidro,Triage III,Medicina Interna,10.0,240000.0,29,Hospitalización
+ADM-3234,Hospital Infantil,Triage II,Pediatría,10.0,240000.0,13,Domicilio
+ADM-3235,Hospital Infantil,Triage III,Medicina General,60.0,85000.0,16,Domicilio
+ADM-3236,Clínica San Marcel,Triage IV,Cirugía,120.0,520000.0,20,Remisión
+ADM-3237,Clínica San Marcel,Triage II,Medicina Interna,60.0,120000.0,53,Observación
+ADM-3238,Hospital San Isidro,Triage II,Medicina General,90.0,520000.0,17,Observación
+ADM-3239,Clínica San Marcel,Triage III,Pediatría,45.0,120000.0,56,Hospitalización
+ADM-3240,Hospital San Isidro,Triage III,Medicina General,10.0,350000.0,66,Domicilio
+ADM-3241,Hospital San Marcos,Triage II,Medicina General,60.0,120000.0,59,Domicilio
+ADM-3242,Hospital San Marcos,Triage III,Pediatría,60.0,350000.0,36,Domicilio
+ADM-3243,Hospital Infantil,Triage IV,Medicina General,90.0,520000.0,48,Domicilio
+ADM-3244,Hospital San Marcos,Triage II,Traumatología,120.0,240000.0,80,Domicilio
+ADM-3245,Hospital San Isidro,Triage I,Traumatología,45.0,120000.0,60,Observación
+ADM-3246,Hospital Infantil,Triage III,Pediatría,45.0,520000.0,51,Observación
+ADM-3247,Hospital Infantil,Triage II,Cirugía,120.0,85000.0,7,Domicilio
+ADM-3248,Hospital Santa Sofía,Triage II,Traumatología,45.0,520000.0,13,Domicilio
+ADM-3249,Hospital Santa Sofía,Triage III,Medicina General,120.0,85000.0,74,Observación
+ADM-3250,Hospital Santa Sofía,Triage I,Medicina Interna,25.0,240000.0,67,Remisión
+ADM-3251,Clínica San Marcel,Triage IV,Cirugía,45.0,120000.0,85,Observación
+ADM-3252,Clínica San Marcel,Triage I,Medicina General,45.0,240000.0,67,Remisión
+ADM-3253,Hospital San Marcos,Triage II,Cirugía,120.0,120000.0,12,Domicilio
+ADM-3254,Hospital Infantil,Triage III,Medicina General,25.0,85000.0,28,Domicilio
+ADM-3255,Hospital San Marcos,Triage III,Pediatría,60.0,240000.0,15,Observación
+ADM-3256,Hospital Santa Sofía,Triage IV,Traumatología,90.0,,76,Domicilio
+ADM-3257,Hospital Santa Sofía,Triage IV,Cirugía,60.0,520000.0,61,Remisión
+ADM-3258,Hospital San Isidro,Triage III,Pediatría,120.0,85000.0,28,Domicilio
+ADM-3259,Hospital San Marcos,Triage IV,Medicina General,,,64,Domicilio
+ADM-3260,Hospital San Isidro,Triage I,Medicina General,120.0,120000.0,43,Observación
+ADM-3261,Hospital San Isidro,Triage II,Cirugía,25.0,350000.0,82,Domicilio
+ADM-3262,Clínica San Marcel,Triage II,Medicina General,10.0,85000.0,14,Domicilio
+ADM-3263,Hospital San Marcos,Triage III,Cirugía,60.0,,1,Observación
+ADM-3264,Hospital San Marcos,Triage II,Traumatología,180.0,85000.0,76,Observación
+ADM-3265,Hospital San Marcos,Triage II,Cirugía,25.0,350000.0,14,Remisión
+ADM-3266,Hospital Infantil,Triage III,Traumatología,25.0,85000.0,69,Observación
+ADM-3267,Hospital San Marcos,Triage II,Cirugía,45.0,120000.0,73,Domicilio
+ADM-3268,Hospital Santa Sofía,Triage IV,Cirugía,10.0,120000.0,81,Domicilio
+ADM-3269,Clínica San Marcel,Triage III,Pediatría,90.0,350000.0,48,Domicilio
+ADM-3270,Hospital Santa Sofía,Triage II,Traumatología,10.0,120000.0,18,Domicilio
+ADM-3271,Hospital Infantil,Triage III,Pediatría,10.0,240000.0,79,Remisión
+ADM-3272,Hospital Santa Sofía,Triage IV,Medicina Interna,,85000.0,16,Domicilio
+ADM-3273,Hospital Infantil,Triage III,Traumatología,25.0,520000.0,13,Remisión
+ADM-3274,Hospital Santa Sofía,Triage I,Medicina Interna,180.0,120000.0,25,Domicilio
+ADM-3275,Clínica San Marcel,Triage III,Medicina Interna,25.0,85000.0,64,Domicilio
+ADM-3276,Hospital Santa Sofía,Triage III,Cirugía,10.0,240000.0,19,Domicilio
+ADM-3277,Hospital Santa Sofía,Triage IV,Pediatría,25.0,85000.0,12,Remisión
+ADM-3278,Hospital Infantil,Triage IV,Medicina General,45.0,240000.0,63,Domicilio
+ADM-3279,Hospital Infantil,Triage IV,Cirugía,90.0,350000.0,59,Observación
+ADM-3280,Hospital San Isidro,Triage III,Traumatología,45.0,85000.0,9,Domicilio
+ADM-3281,Hospital Infantil,Triage III,Medicina Interna,90.0,,88,Domicilio
+ADM-3282,Clínica San Marcel,Triage IV,Pediatría,180.0,120000.0,87,Observación
+ADM-3283,Hospital Infantil,Triage III,Pediatría,45.0,350000.0,87,Domicilio
+ADM-3284,Hospital San Isidro,Triage III,Traumatología,,350000.0,27,Hospitalización
+ADM-3285,Clínica San Marcel,Triage IV,Pediatría,120.0,240000.0,32,Domicilio
+ADM-3286,Hospital San Marcos,Triage II,Medicina General,45.0,240000.0,24,Hospitalización
+ADM-3287,Hospital San Marcos,Triage III,Traumatología,10.0,85000.0,1,Remisión
+ADM-3288,Hospital San Isidro,Triage II,Cirugía,120.0,85000.0,8,Hospitalización
+ADM-3289,Hospital San Marcos,Triage III,Cirugía,90.0,240000.0,23,Remisión
+ADM-3290,Hospital San Isidro,Triage II,Medicina General,60.0,240000.0,56,Domicilio
+ADM-3291,Hospital San Isidro,Triage III,Traumatología,45.0,350000.0,49,Domicilio
+ADM-3292,Clínica San Marcel,Triage IV,Pediatría,25.0,240000.0,2,Domicilio
+ADM-3293,Hospital Santa Sofía,Triage III,Medicina General,25.0,120000.0,62,Hospitalización
+ADM-3294,Clínica San Marcel,Triage IV,Medicina General,90.0,240000.0,55,Hospitalización
+ADM-3295,Hospital Infantil,Triage III,Medicina General,45.0,240000.0,13,Domicilio
+ADM-3296,Clínica San Marcel,Triage IV,Traumatología,120.0,120000.0,33,Remisión
+ADM-3297,Clínica San Marcel,Triage III,Traumatología,,120000.0,60,Domicilio
+ADM-3298,Clínica San Marcel,Triage III,Medicina General,25.0,120000.0,49,Domicilio
+ADM-3299,Clínica San Marcel,Triage IV,Medicina General,60.0,800000.0,75,Remisión
+ADM-3300,Clínica San Marcel,Triage II,Medicina Interna,45.0,85000.0,69,Remisión
+ADM-3301,Hospital San Marcos,Triage II,Medicina General,10.0,520000.0,54,Observación
+ADM-3302,Clínica San Marcel,Triage III,Traumatología,60.0,120000.0,10,Observación
+ADM-3303,Hospital Santa Sofía,Triage II,Medicina General,45.0,350000.0,14,Observación
+ADM-3304,Hospital San Marcos,Triage III,Cirugía,90.0,120000.0,58,Domicilio
+ADM-3305,Hospital Santa Sofía,Triage IV,Medicina General,25.0,520000.0,35,Observación
+ADM-3306,Hospital Infantil,Triage III,Medicina Interna,,85000.0,79,Domicilio
+ADM-3307,Hospital San Marcos,Triage II,Pediatría,45.0,85000.0,18,Remisión
+ADM-3308,Hospital San Isidro,Triage IV,Pediatría,90.0,120000.0,71,Domicilio
+ADM-3309,Hospital San Isidro,Triage IV,Medicina General,45.0,240000.0,32,Domicilio
+ADM-3310,Clínica San Marcel,Triage III,Traumatología,45.0,800000.0,53,Domicilio
+ADM-3311,Hospital San Isidro,Triage III,Cirugía,45.0,520000.0,10,Observación
+ADM-3312,Hospital San Isidro,Triage IV,Medicina General,45.0,520000.0,56,Domicilio
+ADM-3313,Hospital Infantil,Triage III,Pediatría,45.0,120000.0,20,Domicilio
+ADM-3314,Hospital Infantil,Triage I,Cirugía,45.0,120000.0,5,Domicilio
+ADM-3315,Clínica San Marcel,Triage I,Pediatría,45.0,240000.0,48,Remisión
+ADM-3316,Hospital San Marcos,Triage II,Cirugía,25.0,520000.0,64,Domicilio
+ADM-3317,Hospital Santa Sofía,Triage III,Pediatría,60.0,240000.0,72,Remisión
+ADM-3318,Hospital Santa Sofía,Triage III,Medicina General,,120000.0,45,Domicilio
+ADM-3319,Clínica San Marcel,Triage III,Cirugía,45.0,120000.0,22,Domicilio
+ADM-3320,Hospital Infantil,Triage II,Traumatología,45.0,120000.0,8,Domicilio
+ADM-3321,Clínica San Marcel,Triage II,Medicina General,45.0,120000.0,34,Domicilio
+ADM-3322,Hospital San Marcos,Triage III,Pediatría,120.0,85000.0,16,Domicilio
+ADM-3323,Hospital San Marcos,Triage III,Traumatología,60.0,,16,Domicilio
+ADM-3324,Clínica San Marcel,Triage IV,Medicina Interna,25.0,240000.0,23,Hospitalización
+ADM-3325,Hospital Santa Sofía,Triage I,Pediatría,10.0,120000.0,38,Domicilio
+ADM-3326,Hospital San Isidro,Triage II,Traumatología,10.0,85000.0,56,Domicilio
+ADM-3327,Hospital San Isidro,Triage II,Pediatría,10.0,800000.0,71,Domicilio
+ADM-3328,Hospital Santa Sofía,Triage IV,Pediatría,60.0,120000.0,77,Domicilio
+ADM-3329,Clínica San Marcel,Triage III,Medicina Interna,25.0,350000.0,53,Domicilio
+ADM-3330,Clínica San Marcel,Triage III,Cirugía,60.0,85000.0,88,Hospitalización
+ADM-3331,Hospital San Marcos,Triage II,Medicina General,45.0,800000.0,84,Remisión
+ADM-3332,Hospital Infantil,Triage III,Traumatología,25.0,240000.0,24,Domicilio
+ADM-3333,Hospital Infantil,Triage IV,Medicina Interna,60.0,350000.0,64,Domicilio
+ADM-3334,Hospital Santa Sofía,Triage II,Medicina Interna,45.0,120000.0,71,Domicilio
+ADM-3335,Clínica San Marcel,Triage II,Traumatología,45.0,520000.0,42,Remisión
+ADM-3336,Hospital Infantil,Triage III,Medicina Interna,60.0,240000.0,70,Domicilio
+ADM-3337,Hospital Infantil,Triage II,Medicina General,90.0,520000.0,32,Domicilio
+ADM-3338,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,120000.0,65,Domicilio
+ADM-3339,Hospital Infantil,Triage I,Medicina General,10.0,520000.0,52,Domicilio
+ADM-3340,Hospital San Isidro,Triage III,Medicina Interna,90.0,120000.0,47,Remisión
+ADM-3341,Hospital San Marcos,Triage II,Medicina Interna,10.0,240000.0,48,Remisión
+ADM-3342,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,240000.0,8,Remisión
+ADM-3343,Hospital San Marcos,Triage III,Traumatología,45.0,240000.0,73,Observación
+ADM-3344,Hospital Santa Sofía,Triage III,Medicina General,45.0,120000.0,6,Domicilio
+ADM-3345,Hospital Infantil,Triage III,Cirugía,60.0,85000.0,68,Domicilio
+ADM-3346,Hospital Santa Sofía,Triage III,Cirugía,45.0,350000.0,51,Hospitalización
+ADM-3347,Hospital Infantil,Triage II,Medicina General,,120000.0,76,Domicilio
+ADM-3348,Clínica San Marcel,Triage II,Traumatología,45.0,800000.0,29,Domicilio
+ADM-3349,Hospital San Isidro,Triage II,Cirugía,120.0,120000.0,3,Domicilio
+ADM-3350,Hospital San Marcos,Triage I,Cirugía,45.0,85000.0,21,Domicilio
+ADM-3351,Clínica San Marcel,Triage II,Medicina Interna,45.0,350000.0,8,Domicilio
+ADM-3352,Clínica San Marcel,Triage III,Medicina General,90.0,520000.0,50,Hospitalización
+ADM-3353,Hospital San Isidro,Triage II,Medicina Interna,25.0,,81,Domicilio
+ADM-3354,Hospital San Isidro,Triage IV,Pediatría,60.0,520000.0,51,Hospitalización
+ADM-3355,Hospital Santa Sofía,Triage III,Pediatría,25.0,85000.0,66,Domicilio
+ADM-3356,Hospital San Marcos,Triage III,Pediatría,180.0,240000.0,64,Domicilio
+ADM-3357,Hospital San Marcos,Triage II,Cirugía,45.0,240000.0,49,Remisión
+ADM-3358,Hospital Santa Sofía,Triage II,Traumatología,45.0,240000.0,72,Hospitalización
+ADM-3359,Clínica San Marcel,Triage IV,Medicina General,45.0,85000.0,71,Remisión
+ADM-3360,Hospital San Marcos,Triage II,Pediatría,25.0,240000.0,10,Domicilio
+ADM-3361,Clínica San Marcel,Triage III,Traumatología,120.0,520000.0,34,Observación
+ADM-3362,Hospital San Isidro,Triage II,Pediatría,25.0,85000.0,34,Domicilio
+ADM-3363,Hospital Santa Sofía,Triage IV,Traumatología,90.0,120000.0,59,Remisión
+ADM-3364,Hospital San Marcos,Triage III,Medicina General,10.0,85000.0,28,Domicilio
+ADM-3365,Clínica San Marcel,Triage I,Medicina General,25.0,,2,Domicilio
+ADM-3366,Hospital Infantil,Triage II,Pediatría,10.0,85000.0,45,Domicilio
+ADM-3367,Hospital Santa Sofía,Triage III,Pediatría,90.0,85000.0,18,Domicilio
+ADM-3368,Hospital Infantil,Triage III,Pediatría,90.0,350000.0,52,Domicilio
+ADM-3369,Clínica San Marcel,Triage IV,Medicina Interna,10.0,240000.0,7,Hospitalización
+ADM-3370,Hospital Santa Sofía,Triage II,Traumatología,25.0,240000.0,84,Domicilio
+ADM-3371,Hospital Infantil,Triage IV,Cirugía,45.0,120000.0,42,Domicilio
+ADM-3372,Hospital San Isidro,Triage III,Cirugía,120.0,520000.0,1,Domicilio
+ADM-3373,Clínica San Marcel,Triage II,Cirugía,25.0,350000.0,81,Domicilio
+ADM-3374,Hospital Santa Sofía,Triage II,Medicina General,90.0,350000.0,57,Domicilio
+ADM-3375,Hospital Santa Sofía,Triage III,Medicina General,120.0,350000.0,76,Domicilio
+ADM-3376,Hospital Santa Sofía,Triage III,Cirugía,90.0,240000.0,37,Observación
+ADM-3377,Hospital San Marcos,Triage IV,Traumatología,120.0,120000.0,42,Domicilio
+ADM-3378,Hospital San Isidro,Triage III,Pediatría,60.0,120000.0,90,Domicilio
+ADM-3379,Clínica San Marcel,Triage II,Medicina Interna,45.0,85000.0,3,Observación
+ADM-3380,Hospital Infantil,Triage II,Traumatología,90.0,120000.0,39,Hospitalización
+ADM-3381,Hospital San Isidro,Triage IV,Pediatría,,85000.0,43,Domicilio
+ADM-3382,Hospital San Isidro,Triage IV,Pediatría,60.0,,82,Observación
+ADM-3383,Hospital Infantil,Triage III,Medicina General,10.0,520000.0,75,Domicilio
+ADM-3384,Hospital Santa Sofía,Triage II,Traumatología,90.0,85000.0,73,Remisión
+ADM-3385,Hospital San Isidro,Triage II,Cirugía,60.0,85000.0,11,Domicilio
+ADM-3386,Hospital San Isidro,Triage IV,Traumatología,90.0,85000.0,77,Domicilio
+ADM-3387,Hospital San Isidro,Triage III,Traumatología,90.0,350000.0,36,Observación
+ADM-3388,Hospital Infantil,Triage I,Medicina General,25.0,120000.0,24,Domicilio
+ADM-3389,Clínica San Marcel,Triage II,Medicina Interna,10.0,800000.0,62,Domicilio
+ADM-3390,Hospital Infantil,Triage IV,Cirugía,10.0,120000.0,37,Domicilio
+ADM-3391,Hospital San Marcos,Triage III,Cirugía,10.0,120000.0,8,Domicilio
+ADM-3392,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,120000.0,74,Domicilio
+ADM-3393,Hospital San Marcos,Triage II,Medicina General,10.0,85000.0,60,Domicilio
+ADM-3394,Hospital San Marcos,Triage III,Pediatría,10.0,120000.0,6,Domicilio
+ADM-3395,Hospital Infantil,Triage II,Medicina Interna,45.0,240000.0,66,Remisión
+ADM-3396,Hospital San Marcos,Triage II,Pediatría,25.0,120000.0,78,Domicilio
+ADM-3397,Hospital San Isidro,Triage III,Cirugía,10.0,85000.0,85,Domicilio
+ADM-3398,Hospital San Isidro,Triage IV,Cirugía,90.0,120000.0,89,Hospitalización
+ADM-3399,Hospital San Isidro,Triage II,Cirugía,60.0,120000.0,78,Domicilio
+ADM-3400,Hospital San Isidro,Triage III,Medicina General,45.0,350000.0,75,Hospitalización
+ADM-3401,Clínica San Marcel,Triage III,Medicina Interna,90.0,85000.0,75,Observación
+ADM-3402,Hospital Santa Sofía,Triage II,Pediatría,25.0,520000.0,33,Domicilio
+ADM-3403,Hospital San Isidro,Triage II,Cirugía,180.0,85000.0,60,Domicilio
+ADM-3404,Clínica San Marcel,Triage III,Pediatría,25.0,120000.0,23,Observación
+ADM-3405,Hospital San Marcos,Triage II,Cirugía,90.0,85000.0,36,Domicilio
+ADM-3406,Hospital San Marcos,Triage I,Cirugía,90.0,85000.0,17,Domicilio
+ADM-3407,Hospital Infantil,Triage III,Pediatría,45.0,240000.0,35,Domicilio
+ADM-3408,Hospital San Isidro,Triage III,Traumatología,25.0,85000.0,54,Remisión
+ADM-3409,Clínica San Marcel,Triage II,Medicina General,60.0,240000.0,15,Domicilio
+ADM-3410,Clínica San Marcel,Triage IV,Traumatología,60.0,350000.0,25,Domicilio
+ADM-3411,Hospital Infantil,Triage IV,Cirugía,25.0,120000.0,9,Remisión
+ADM-3412,Hospital San Marcos,Triage II,Medicina Interna,60.0,240000.0,38,Domicilio
+ADM-3413,Hospital San Isidro,Triage III,Cirugía,45.0,120000.0,47,Domicilio
+ADM-3414,Hospital San Marcos,Triage II,Pediatría,25.0,350000.0,49,Remisión
+ADM-3415,Hospital San Marcos,Triage III,Traumatología,60.0,520000.0,78,Domicilio
+ADM-3416,Clínica San Marcel,Triage III,Pediatría,45.0,520000.0,35,Domicilio
+ADM-3417,Clínica San Marcel,Triage IV,Pediatría,45.0,520000.0,45,Remisión
+ADM-3418,Clínica San Marcel,Triage II,Traumatología,10.0,,51,Domicilio
+ADM-3419,Hospital Santa Sofía,Triage II,Cirugía,45.0,240000.0,42,Domicilio
+ADM-3420,Hospital San Marcos,Triage III,Traumatología,45.0,240000.0,73,Observación
+ADM-3421,Hospital Infantil,Triage II,Medicina Interna,,240000.0,25,Hospitalización
+ADM-3422,Hospital Infantil,Triage III,Cirugía,,120000.0,39,Domicilio
+ADM-3423,Hospital San Isidro,Triage III,Medicina General,25.0,85000.0,53,Domicilio
+ADM-3424,Clínica San Marcel,Triage III,Medicina Interna,60.0,240000.0,13,Remisión
+ADM-3425,Hospital Santa Sofía,Triage III,Cirugía,60.0,120000.0,55,Hospitalización
+ADM-3426,Hospital San Marcos,Triage II,Cirugía,120.0,520000.0,64,Domicilio
+ADM-3427,Hospital Infantil,Triage II,Medicina Interna,60.0,240000.0,59,Domicilio
+ADM-3428,Hospital Santa Sofía,Triage II,Traumatología,,85000.0,35,Remisión
+ADM-3429,Hospital San Marcos,Triage II,Pediatría,120.0,240000.0,15,Observación
+ADM-3430,Hospital San Isidro,Triage IV,Pediatría,45.0,120000.0,13,Hospitalización
+ADM-3431,Hospital Santa Sofía,Triage II,Pediatría,45.0,350000.0,56,Remisión
+ADM-3432,Clínica San Marcel,Triage I,Medicina Interna,45.0,120000.0,70,Domicilio
+ADM-3433,Hospital San Isidro,Triage III,Pediatría,60.0,350000.0,8,Observación
+ADM-3434,Hospital Santa Sofía,Triage IV,Traumatología,25.0,350000.0,87,Domicilio
+ADM-3435,Clínica San Marcel,Triage IV,Medicina Interna,10.0,120000.0,35,Observación
+ADM-3436,Clínica San Marcel,Triage IV,Traumatología,120.0,800000.0,89,Domicilio
+ADM-3437,Hospital San Isidro,Triage III,Pediatría,60.0,240000.0,78,Hospitalización
+ADM-3438,Hospital Infantil,Triage I,Pediatría,25.0,240000.0,43,Domicilio
+ADM-3439,Hospital San Isidro,Triage II,Pediatría,10.0,120000.0,9,Domicilio
+ADM-3440,Hospital San Marcos,Triage III,Cirugía,60.0,85000.0,10,Observación
+ADM-3441,Clínica San Marcel,Triage III,Traumatología,25.0,85000.0,65,Domicilio
+ADM-3442,Clínica San Marcel,Triage II,Pediatría,60.0,85000.0,58,Observación
+ADM-3443,Hospital San Marcos,Triage IV,Cirugía,60.0,520000.0,1,Domicilio
+ADM-3444,Hospital San Marcos,Triage II,Traumatología,45.0,85000.0,66,Observación
+ADM-3445,Hospital San Marcos,Triage IV,Medicina Interna,45.0,350000.0,23,Domicilio
+ADM-3446,Hospital Infantil,Triage III,Medicina Interna,45.0,520000.0,9,Observación
+ADM-3447,Hospital San Marcos,Triage II,Medicina General,45.0,85000.0,42,Domicilio
+ADM-3448,Hospital San Marcos,Triage III,Cirugía,25.0,800000.0,30,Domicilio
+ADM-3449,Hospital Santa Sofía,Triage III,Cirugía,10.0,,24,Domicilio
+ADM-3450,Hospital San Marcos,Triage II,Medicina Interna,10.0,85000.0,22,Observación
+ADM-3451,Hospital San Marcos,Triage IV,Medicina General,45.0,85000.0,36,Domicilio
+ADM-3452,Hospital Santa Sofía,Triage II,Medicina Interna,90.0,120000.0,1,Hospitalización
+ADM-3453,Clínica San Marcel,Triage II,Cirugía,60.0,350000.0,86,Observación
+ADM-3454,Hospital Santa Sofía,Triage II,Medicina Interna,45.0,85000.0,52,Domicilio
+ADM-3455,Hospital Santa Sofía,Triage III,Medicina General,90.0,85000.0,13,Observación
+ADM-3456,Hospital San Marcos,Triage III,Cirugía,45.0,350000.0,72,Domicilio
+ADM-3457,Hospital Infantil,Triage III,Traumatología,45.0,520000.0,15,Remisión
+ADM-3458,Hospital Infantil,Triage III,Cirugía,180.0,,76,Domicilio
+ADM-3459,Hospital Infantil,Triage III,Pediatría,10.0,800000.0,60,Remisión
+ADM-3460,Hospital San Marcos,Triage II,Medicina General,45.0,85000.0,78,Domicilio
+ADM-3461,Hospital Infantil,Triage III,Pediatría,45.0,120000.0,43,Domicilio
+ADM-3462,Hospital Infantil,Triage II,Cirugía,45.0,350000.0,55,Domicilio
+ADM-3463,Hospital Santa Sofía,Triage III,Traumatología,90.0,120000.0,45,Domicilio
+ADM-3464,Hospital Infantil,Triage II,Medicina Interna,60.0,85000.0,36,Observación
+ADM-3465,Hospital San Isidro,Triage IV,Medicina Interna,180.0,350000.0,3,Domicilio
+ADM-3466,Hospital Santa Sofía,Triage IV,Pediatría,25.0,240000.0,85,Domicilio
+ADM-3467,Hospital San Marcos,Triage II,Cirugía,10.0,120000.0,67,Remisión
+ADM-3468,Hospital San Isidro,Triage III,Pediatría,45.0,800000.0,41,Domicilio
+ADM-3469,Hospital San Isidro,Triage IV,Medicina Interna,10.0,120000.0,77,Domicilio
+ADM-3470,Hospital Infantil,Triage III,Medicina General,45.0,520000.0,78,Domicilio
+ADM-3471,Hospital Infantil,Triage III,Medicina Interna,60.0,350000.0,41,Domicilio
+ADM-3472,Clínica San Marcel,Triage III,Traumatología,45.0,120000.0,20,Domicilio
+ADM-3473,Hospital Santa Sofía,Triage II,Medicina General,10.0,120000.0,2,Domicilio
+ADM-3474,Hospital Infantil,Triage III,Pediatría,45.0,800000.0,60,Domicilio
+ADM-3475,Hospital Infantil,Triage III,Traumatología,45.0,350000.0,17,Observación
+ADM-3476,Hospital San Isidro,Triage II,Pediatría,25.0,,12,Domicilio
+ADM-3477,Clínica San Marcel,Triage III,Pediatría,25.0,120000.0,22,Remisión
+ADM-3478,Clínica San Marcel,Triage IV,Pediatría,180.0,120000.0,44,Domicilio
+ADM-3479,Hospital San Marcos,Triage II,Medicina Interna,10.0,120000.0,71,Observación
+ADM-3480,Hospital San Isidro,Triage II,Traumatología,60.0,85000.0,58,Domicilio
+ADM-3481,Clínica San Marcel,Triage IV,Cirugía,,85000.0,85,Domicilio
+ADM-3482,Hospital Infantil,Triage III,Medicina Interna,60.0,520000.0,59,Domicilio
+ADM-3483,Hospital San Isidro,Triage III,Cirugía,25.0,85000.0,32,Observación
+ADM-3484,Clínica San Marcel,Triage II,Cirugía,45.0,240000.0,71,Domicilio
+ADM-3485,Clínica San Marcel,Triage I,Traumatología,45.0,120000.0,17,Remisión
+ADM-3486,Hospital Santa Sofía,Triage II,Cirugía,60.0,350000.0,16,Domicilio
+ADM-3487,Hospital Infantil,Triage IV,Medicina General,25.0,,35,Remisión
+ADM-3488,Hospital San Isidro,Triage I,Cirugía,90.0,120000.0,72,Hospitalización
+ADM-3489,Clínica San Marcel,Triage II,Pediatría,60.0,520000.0,78,Remisión
+ADM-3490,Hospital Infantil,Triage II,Cirugía,25.0,350000.0,69,Domicilio
+ADM-3491,Hospital Santa Sofía,Triage IV,Medicina Interna,60.0,85000.0,17,Hospitalización
+ADM-3492,Hospital San Isidro,Triage III,Medicina General,60.0,240000.0,10,Remisión
+ADM-3493,Hospital Santa Sofía,Triage II,Medicina Interna,25.0,350000.0,13,Domicilio
+ADM-3494,Hospital San Isidro,Triage IV,Cirugía,90.0,120000.0,72,Observación
+ADM-3495,Hospital Santa Sofía,Triage II,Pediatría,90.0,85000.0,34,Observación
+ADM-3496,Hospital Santa Sofía,Triage III,Traumatología,60.0,85000.0,72,Domicilio
+ADM-3497,Hospital San Isidro,Triage II,Medicina Interna,25.0,,47,Domicilio
+ADM-3498,Clínica San Marcel,Triage III,Medicina Interna,45.0,85000.0,17,Remisión
+ADM-3499,Hospital San Isidro,Triage II,Medicina General,45.0,240000.0,1,Remisión
+ADM-3500,Hospital San Marcos,Triage II,Pediatría,90.0,120000.0,16,Hospitalización
+ADM-3501,Hospital San Isidro,Triage II,Medicina Interna,60.0,800000.0,60,Remisión
+ADM-3502,Clínica San Marcel,Triage I,Pediatría,90.0,240000.0,66,Domicilio
+ADM-3503,Clínica San Marcel,Triage III,Medicina General,10.0,85000.0,66,Remisión
+ADM-3504,Clínica San Marcel,Triage III,Cirugía,60.0,240000.0,8,Domicilio
+ADM-3505,Hospital San Marcos,Triage III,Traumatología,25.0,85000.0,17,Domicilio
+ADM-3506,Hospital Santa Sofía,Triage II,Pediatría,25.0,240000.0,21,Domicilio
+ADM-3507,Hospital San Isidro,Triage II,Pediatría,45.0,120000.0,55,Domicilio
+ADM-3508,Hospital San Isidro,Triage III,Medicina General,45.0,350000.0,19,Observación
+ADM-3509,Hospital San Isidro,Triage II,Medicina General,10.0,350000.0,54,Domicilio
+ADM-3510,Hospital Infantil,Triage III,Cirugía,25.0,350000.0,57,Remisión
+ADM-3511,Clínica San Marcel,Triage IV,Pediatría,10.0,120000.0,20,Domicilio
+ADM-3512,Hospital San Isidro,Triage II,Medicina Interna,45.0,120000.0,20,Domicilio
+ADM-3513,Hospital San Marcos,Triage III,Cirugía,90.0,120000.0,18,Observación
+ADM-3514,Clínica San Marcel,Triage II,Cirugía,90.0,520000.0,47,Observación
+ADM-3515,Hospital San Isidro,Triage II,Medicina Interna,90.0,120000.0,55,Domicilio
+ADM-3516,Hospital San Marcos,Triage III,Medicina General,10.0,520000.0,82,Domicilio
+ADM-3517,Hospital Santa Sofía,Triage III,Medicina Interna,120.0,85000.0,1,Domicilio
+ADM-3518,Hospital San Marcos,Triage III,Cirugía,90.0,240000.0,39,Remisión
+ADM-3519,Hospital San Isidro,Triage III,Cirugía,45.0,120000.0,37,Observación
+ADM-3520,Hospital San Isidro,Triage II,Cirugía,25.0,,46,Domicilio
+ADM-3521,Hospital Infantil,Triage III,Medicina General,25.0,85000.0,17,Domicilio
+ADM-3522,Hospital Infantil,Triage III,Traumatología,10.0,85000.0,72,Observación
+ADM-3523,Hospital Infantil,Triage III,Medicina Interna,60.0,800000.0,19,Observación
+ADM-3524,Hospital Santa Sofía,Triage IV,Medicina Interna,10.0,240000.0,7,Hospitalización
+ADM-3525,Hospital San Isidro,Triage III,Cirugía,45.0,350000.0,4,Domicilio
+ADM-3526,Clínica San Marcel,Triage IV,Medicina General,90.0,240000.0,12,Domicilio
+ADM-3527,Hospital Santa Sofía,Triage II,Cirugía,25.0,350000.0,13,Domicilio
+ADM-3528,Clínica San Marcel,Triage III,Pediatría,45.0,520000.0,7,Observación
+ADM-3529,Hospital San Isidro,Triage III,Cirugía,10.0,85000.0,41,Observación
+ADM-3530,Hospital Infantil,Triage IV,Medicina General,,240000.0,74,Domicilio
+ADM-3531,Hospital Santa Sofía,Triage IV,Medicina General,90.0,350000.0,14,Hospitalización
+ADM-3532,Hospital Infantil,Triage II,Pediatría,25.0,240000.0,50,Remisión
+ADM-3533,Hospital San Marcos,Triage II,Medicina General,90.0,240000.0,57,Domicilio
+ADM-3534,Hospital San Marcos,Triage III,Cirugía,90.0,120000.0,45,Domicilio
+ADM-3535,Clínica San Marcel,Triage III,Traumatología,25.0,,69,Domicilio
+ADM-3536,Hospital San Marcos,Triage II,Medicina Interna,60.0,85000.0,10,Domicilio
+ADM-3537,Clínica San Marcel,Triage III,Traumatología,25.0,85000.0,84,Domicilio
+ADM-3538,Hospital Infantil,Triage III,Pediatría,45.0,240000.0,58,Remisión
+ADM-3539,Hospital Santa Sofía,Triage I,Traumatología,45.0,85000.0,85,Observación
+ADM-3540,Hospital Santa Sofía,Triage II,Medicina General,25.0,,82,Domicilio
+ADM-3541,Hospital San Isidro,Triage II,Medicina General,60.0,350000.0,84,Domicilio
+ADM-3542,Hospital San Marcos,Triage IV,Traumatología,10.0,350000.0,67,Observación
+ADM-3543,Hospital Santa Sofía,Triage II,Traumatología,25.0,85000.0,4,Domicilio
+ADM-3544,Hospital Infantil,Triage III,Traumatología,60.0,800000.0,5,Hospitalización
+ADM-3545,Hospital Santa Sofía,Triage III,Medicina Interna,90.0,85000.0,20,Domicilio
+ADM-3546,Hospital San Isidro,Triage I,Traumatología,90.0,350000.0,34,Domicilio
+ADM-3547,Hospital San Marcos,Triage III,Cirugía,45.0,,50,Hospitalización
+ADM-3548,Hospital Santa Sofía,Triage III,Traumatología,60.0,120000.0,50,Observación
+ADM-3549,Hospital Infantil,Triage II,Pediatría,45.0,240000.0,47,Domicilio
+ADM-3550,Hospital San Marcos,Triage III,Medicina General,90.0,120000.0,43,Domicilio
+ADM-3551,Hospital San Marcos,Triage IV,Cirugía,,85000.0,32,Observación
+ADM-3552,Clínica San Marcel,Triage III,Traumatología,120.0,85000.0,21,Observación
+ADM-3553,Hospital San Marcos,Triage I,Pediatría,25.0,85000.0,59,Domicilio
+ADM-3554,Hospital San Marcos,Triage III,Traumatología,60.0,350000.0,61,Observación
+ADM-3555,Clínica San Marcel,Triage III,Medicina Interna,10.0,85000.0,68,Remisión
+ADM-3556,Clínica San Marcel,Triage IV,Pediatría,45.0,85000.0,11,Domicilio
+ADM-3557,Clínica San Marcel,Triage II,Traumatología,25.0,350000.0,64,Domicilio
+ADM-3558,Hospital Infantil,Triage I,Medicina Interna,45.0,120000.0,58,Domicilio
+ADM-3559,Clínica San Marcel,Triage IV,Medicina Interna,180.0,520000.0,29,Domicilio
+ADM-3560,Hospital Santa Sofía,Triage II,Pediatría,90.0,240000.0,87,Hospitalización
+ADM-3561,Clínica San Marcel,Triage III,Traumatología,45.0,120000.0,6,Observación
+ADM-3562,Hospital Infantil,Triage IV,Medicina Interna,45.0,240000.0,84,Domicilio
+ADM-3563,Hospital Infantil,Triage III,Medicina General,25.0,120000.0,40,Domicilio
+ADM-3564,Hospital Santa Sofía,Triage III,Medicina General,25.0,350000.0,46,Hospitalización
+ADM-3565,Clínica San Marcel,Triage II,Traumatología,90.0,240000.0,51,Hospitalización
+ADM-3566,Hospital Santa Sofía,Triage III,Traumatología,45.0,240000.0,62,Observación
+ADM-3567,Hospital San Marcos,Triage II,Traumatología,10.0,240000.0,67,Hospitalización
+ADM-3568,Hospital San Marcos,Triage II,Medicina Interna,45.0,120000.0,37,Remisión
+ADM-3569,Hospital San Isidro,Triage III,Pediatría,45.0,350000.0,28,Observación
+ADM-3570,Clínica San Marcel,Triage IV,Traumatología,120.0,240000.0,64,Observación
+ADM-3571,Hospital San Marcos,Triage III,Medicina General,90.0,120000.0,10,Domicilio
+ADM-3572,Hospital San Isidro,Triage I,Medicina Interna,10.0,85000.0,43,Domicilio
+ADM-3573,Hospital Santa Sofía,Triage III,Traumatología,45.0,240000.0,55,Domicilio
+ADM-3574,Clínica San Marcel,Triage II,Traumatología,25.0,120000.0,19,Domicilio
+ADM-3575,Hospital Santa Sofía,Triage III,Medicina General,,120000.0,4,Domicilio
+ADM-3576,Hospital San Isidro,Triage III,Traumatología,45.0,350000.0,74,Domicilio
+ADM-3577,Hospital Santa Sofía,Triage III,Cirugía,25.0,85000.0,65,Observación
+ADM-3578,Clínica San Marcel,Triage III,Pediatría,90.0,240000.0,17,Domicilio
+ADM-3579,Hospital San Isidro,Triage III,Cirugía,60.0,,63,Hospitalización
+ADM-3580,Hospital Santa Sofía,Triage I,Pediatría,25.0,120000.0,82,Domicilio
+ADM-3581,Hospital San Marcos,Triage III,Pediatría,10.0,520000.0,55,Domicilio
+ADM-3582,Hospital Santa Sofía,Triage III,Pediatría,10.0,240000.0,67,Domicilio
+ADM-3583,Hospital San Marcos,Triage II,Cirugía,25.0,85000.0,12,Domicilio
+ADM-3584,Hospital San Isidro,Triage III,Medicina General,60.0,85000.0,14,Domicilio
+ADM-3585,Clínica San Marcel,Triage II,Pediatría,25.0,85000.0,55,Domicilio
+ADM-3586,Hospital San Marcos,Triage IV,Pediatría,90.0,85000.0,76,Observación
+ADM-3587,Hospital Infantil,Triage II,Cirugía,60.0,240000.0,64,Observación
+ADM-3588,Hospital Infantil,Triage II,Pediatría,60.0,240000.0,62,Observación
+ADM-3589,Clínica San Marcel,Triage III,Medicina General,10.0,85000.0,28,Domicilio
+ADM-3590,Hospital Infantil,Triage I,Cirugía,180.0,240000.0,32,Domicilio
+ADM-3591,Hospital San Isidro,Triage II,Medicina Interna,45.0,800000.0,39,Domicilio
+ADM-3592,Hospital San Marcos,Triage II,Traumatología,90.0,240000.0,53,Domicilio
+ADM-3593,Hospital Infantil,Triage III,Medicina Interna,45.0,120000.0,3,Domicilio
+ADM-3594,Hospital Infantil,Triage IV,Traumatología,120.0,85000.0,52,Domicilio
+ADM-3595,Hospital Infantil,Triage III,Medicina Interna,180.0,240000.0,7,Observación
+ADM-3596,Hospital San Isidro,Triage IV,Traumatología,10.0,85000.0,53,Remisión
+ADM-3597,Hospital San Isidro,Triage III,Medicina General,45.0,350000.0,48,Hospitalización
+ADM-3598,Clínica San Marcel,Triage II,Pediatría,10.0,240000.0,22,Domicilio
+ADM-3599,Clínica San Marcel,Triage III,Medicina General,10.0,120000.0,11,Remisión
+ADM-3600,Hospital Infantil,Triage III,Pediatría,60.0,120000.0,31,Domicilio
+ADM-3601,Clínica San Marcel,Triage III,Medicina General,60.0,350000.0,67,Domicilio
+ADM-3602,Hospital San Marcos,Triage III,Cirugía,60.0,240000.0,51,Domicilio
+ADM-3603,Hospital Santa Sofía,Triage I,Cirugía,,85000.0,18,Domicilio
+ADM-3604,Hospital Infantil,Triage III,Medicina Interna,60.0,350000.0,54,Domicilio
+ADM-3605,Hospital San Isidro,Triage III,Pediatría,25.0,240000.0,63,Hospitalización
+ADM-3606,Hospital San Isidro,Triage III,Medicina General,45.0,85000.0,69,Domicilio
+ADM-3607,Hospital San Isidro,Triage III,Pediatría,10.0,85000.0,59,Domicilio
+ADM-3608,Hospital San Isidro,Triage III,Cirugía,,350000.0,90,Hospitalización
+ADM-3609,Hospital Infantil,Triage IV,Medicina Interna,120.0,350000.0,72,Domicilio
+ADM-3610,Clínica San Marcel,Triage IV,Cirugía,45.0,520000.0,83,Domicilio
+ADM-3611,Hospital San Isidro,Triage I,Cirugía,45.0,350000.0,11,Domicilio
+ADM-3612,Hospital San Isidro,Triage II,Medicina Interna,,520000.0,4,Remisión
+ADM-3613,Hospital Santa Sofía,Triage III,Pediatría,25.0,240000.0,72,Domicilio
+ADM-3614,Hospital Infantil,Triage I,Pediatría,90.0,120000.0,29,Domicilio
+ADM-3615,Hospital San Marcos,Triage II,Cirugía,180.0,85000.0,21,Observación
+ADM-3616,Hospital San Isidro,Triage III,Medicina Interna,45.0,85000.0,16,Domicilio
+ADM-3617,Hospital Santa Sofía,Triage III,Medicina General,45.0,520000.0,68,Domicilio
+ADM-3618,Hospital San Isidro,Triage III,Medicina Interna,90.0,85000.0,13,Domicilio
+ADM-3619,Clínica San Marcel,Triage I,Medicina General,60.0,120000.0,18,Domicilio
+ADM-3620,Hospital Santa Sofía,Triage I,Medicina General,25.0,120000.0,89,Remisión
+ADM-3621,Clínica San Marcel,Triage III,Pediatría,45.0,120000.0,12,Domicilio
+ADM-3622,Hospital San Marcos,Triage III,Medicina General,120.0,,49,Hospitalización
+ADM-3623,Hospital San Marcos,Triage III,Medicina General,25.0,120000.0,14,Domicilio
+ADM-3624,Hospital Santa Sofía,Triage III,Medicina General,90.0,85000.0,27,Domicilio
+ADM-3625,Hospital Santa Sofía,Triage II,Pediatría,25.0,520000.0,27,Domicilio
+ADM-3626,Hospital San Isidro,Triage I,Cirugía,60.0,120000.0,89,Domicilio
+ADM-3627,Hospital Santa Sofía,Triage III,Pediatría,,85000.0,14,Remisión
+ADM-3628,Clínica San Marcel,Triage I,Pediatría,,,14,Domicilio
+ADM-3629,Hospital Santa Sofía,Triage III,Cirugía,45.0,240000.0,23,Domicilio
+ADM-3630,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,350000.0,17,Domicilio
+ADM-3631,Hospital San Marcos,Triage IV,Traumatología,120.0,350000.0,44,Remisión
+ADM-3632,Clínica San Marcel,Triage I,Medicina Interna,90.0,,85,Observación
+ADM-3633,Hospital San Marcos,Triage II,Traumatología,45.0,120000.0,88,Remisión
+ADM-3634,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,240000.0,11,Domicilio
+ADM-3635,Hospital Santa Sofía,Triage I,Pediatría,60.0,240000.0,74,Domicilio
+ADM-3636,Hospital San Isidro,Triage IV,Cirugía,,85000.0,54,Domicilio
+ADM-3637,Hospital Infantil,Triage I,Medicina Interna,60.0,350000.0,71,Remisión
+ADM-3638,Hospital Santa Sofía,Triage III,Medicina General,,120000.0,12,Observación
+ADM-3639,Hospital Santa Sofía,Triage III,Pediatría,45.0,350000.0,15,Remisión
+ADM-3640,Hospital San Marcos,Triage III,Traumatología,60.0,120000.0,58,Domicilio
+ADM-3641,Hospital Santa Sofía,Triage III,Pediatría,25.0,240000.0,82,Domicilio
+ADM-3642,Hospital Santa Sofía,Triage III,Pediatría,10.0,520000.0,50,Observación
+ADM-3643,Clínica San Marcel,Triage II,Pediatría,60.0,240000.0,48,Domicilio
+ADM-3644,Hospital San Marcos,Triage III,Pediatría,120.0,85000.0,67,Remisión
+ADM-3645,Clínica San Marcel,Triage III,Cirugía,90.0,240000.0,5,Hospitalización
+ADM-3646,Clínica San Marcel,Triage III,Traumatología,45.0,240000.0,10,Domicilio
+ADM-3647,Hospital Santa Sofía,Triage III,Traumatología,,240000.0,42,Domicilio
+ADM-3648,Clínica San Marcel,Triage II,Cirugía,10.0,800000.0,23,Observación
+ADM-3649,Hospital Santa Sofía,Triage II,Medicina General,90.0,800000.0,50,Domicilio
+ADM-3650,Clínica San Marcel,Triage IV,Pediatría,45.0,120000.0,18,Domicilio
+ADM-3651,Hospital San Marcos,Triage III,Medicina General,45.0,120000.0,16,Hospitalización
+ADM-3652,Hospital Infantil,Triage II,Medicina General,25.0,520000.0,53,Domicilio
+ADM-3653,Hospital San Marcos,Triage IV,Cirugía,120.0,520000.0,22,Domicilio
+ADM-3654,Hospital Infantil,Triage IV,Traumatología,25.0,350000.0,21,Domicilio
+ADM-3655,Hospital Infantil,Triage IV,Medicina General,60.0,350000.0,1,Observación
+ADM-3656,Clínica San Marcel,Triage III,Medicina General,25.0,120000.0,8,Domicilio
+ADM-3657,Hospital San Marcos,Triage III,Traumatología,45.0,350000.0,18,Domicilio
+ADM-3658,Hospital Santa Sofía,Triage II,Medicina General,45.0,120000.0,48,Remisión
+ADM-3659,Hospital San Isidro,Triage II,Traumatología,60.0,120000.0,37,Domicilio
+ADM-3660,Clínica San Marcel,Triage III,Medicina Interna,,85000.0,9,Observación
+ADM-3661,Hospital San Marcos,Triage IV,Traumatología,10.0,120000.0,10,Domicilio
+ADM-3662,Hospital San Isidro,Triage II,Medicina Interna,10.0,520000.0,22,Domicilio
+ADM-3663,Hospital Infantil,Triage IV,Medicina General,45.0,520000.0,62,Observación
+ADM-3664,Clínica San Marcel,Triage II,Pediatría,25.0,,5,Observación
+ADM-3665,Hospital Infantil,Triage II,Traumatología,180.0,240000.0,23,Domicilio
+ADM-3666,Clínica San Marcel,Triage II,Cirugía,10.0,85000.0,35,Remisión
+ADM-3667,Hospital Santa Sofía,Triage III,Medicina General,45.0,85000.0,63,Observación
+ADM-3668,Clínica San Marcel,Triage I,Pediatría,10.0,85000.0,6,Domicilio
+ADM-3669,Clínica San Marcel,Triage II,Pediatría,120.0,520000.0,39,Domicilio
+ADM-3670,Hospital Santa Sofía,Triage II,Pediatría,60.0,350000.0,26,Domicilio
+ADM-3671,Hospital San Isidro,Triage IV,Traumatología,60.0,240000.0,68,Remisión
+ADM-3672,Hospital Infantil,Triage II,Cirugía,90.0,85000.0,64,Domicilio
+ADM-3673,Hospital Santa Sofía,Triage II,Pediatría,60.0,350000.0,39,Observación
+ADM-3674,Hospital San Isidro,Triage III,Medicina General,90.0,520000.0,43,Domicilio
+ADM-3675,Hospital Santa Sofía,Triage III,Pediatría,90.0,120000.0,32,Domicilio
+ADM-3676,Clínica San Marcel,Triage III,Traumatología,10.0,85000.0,53,Remisión
+ADM-3677,Hospital San Isidro,Triage II,Pediatría,10.0,350000.0,88,Domicilio
+ADM-3678,Hospital San Isidro,Triage IV,Medicina General,45.0,350000.0,59,Domicilio
+ADM-3679,Hospital Santa Sofía,Triage III,Medicina General,60.0,240000.0,72,Domicilio
+ADM-3680,Hospital Santa Sofía,Triage IV,Pediatría,25.0,120000.0,9,Domicilio
+ADM-3681,Hospital Santa Sofía,Triage II,Pediatría,120.0,120000.0,66,Domicilio
+ADM-3682,Hospital San Marcos,Triage II,Cirugía,90.0,85000.0,47,Observación
+ADM-3683,Clínica San Marcel,Triage II,Traumatología,25.0,,1,Domicilio
+ADM-3684,Hospital Santa Sofía,Triage IV,Pediatría,10.0,120000.0,67,Remisión
+ADM-3685,Hospital Infantil,Triage I,Traumatología,45.0,240000.0,63,Domicilio
+ADM-3686,Hospital Santa Sofía,Triage III,Traumatología,180.0,120000.0,88,Observación
+ADM-3687,Hospital San Isidro,Triage II,Medicina General,60.0,85000.0,43,Domicilio
+ADM-3688,Hospital San Marcos,Triage IV,Medicina General,45.0,120000.0,6,Observación
+ADM-3689,Clínica San Marcel,Triage I,Medicina General,45.0,240000.0,2,Domicilio
+ADM-3690,Clínica San Marcel,Triage III,Cirugía,25.0,85000.0,66,Domicilio
+ADM-3691,Clínica San Marcel,Triage II,Medicina Interna,10.0,120000.0,80,Domicilio
+ADM-3692,Hospital San Marcos,Triage III,Medicina Interna,45.0,240000.0,9,Remisión
+ADM-3693,Hospital Infantil,Triage II,Cirugía,25.0,120000.0,1,Domicilio
+ADM-3694,Hospital San Isidro,Triage II,Medicina Interna,25.0,520000.0,12,Remisión
+ADM-3695,Hospital San Isidro,Triage IV,Medicina Interna,90.0,350000.0,22,Observación
+ADM-3696,Hospital Santa Sofía,Triage II,Medicina Interna,60.0,120000.0,53,Domicilio
+ADM-3697,Hospital Infantil,Triage II,Medicina General,10.0,85000.0,32,Hospitalización
+ADM-3698,Hospital San Isidro,Triage II,Cirugía,90.0,240000.0,3,Domicilio
+ADM-3699,Hospital San Marcos,Triage III,Medicina Interna,25.0,350000.0,3,Domicilio
+ADM-3700,Hospital San Isidro,Triage III,Pediatría,25.0,120000.0,19,Observación
+ADM-3701,Hospital Infantil,Triage I,Traumatología,,85000.0,36,Domicilio
+ADM-3702,Hospital San Marcos,Triage IV,Medicina General,60.0,240000.0,90,Domicilio
+ADM-3703,Clínica San Marcel,Triage IV,Medicina Interna,45.0,85000.0,10,Domicilio
+ADM-3704,Hospital Santa Sofía,Triage II,Pediatría,45.0,85000.0,34,Domicilio
+ADM-3705,Hospital Santa Sofía,Triage II,Traumatología,25.0,85000.0,4,Domicilio
+ADM-3706,Hospital San Isidro,Triage III,Cirugía,10.0,240000.0,90,Remisión
+ADM-3707,Hospital San Marcos,Triage III,Cirugía,60.0,240000.0,1,Observación
+ADM-3708,Clínica San Marcel,Triage III,Cirugía,25.0,85000.0,89,Domicilio
+ADM-3709,Hospital Santa Sofía,Triage I,Traumatología,10.0,120000.0,67,Domicilio
+ADM-3710,Hospital San Isidro,Triage III,Pediatría,10.0,240000.0,60,Domicilio
+ADM-3711,Hospital Santa Sofía,Triage III,Pediatría,10.0,520000.0,25,Domicilio
+ADM-3712,Hospital San Isidro,Triage IV,Cirugía,60.0,350000.0,47,Domicilio
+ADM-3713,Hospital Santa Sofía,Triage III,Medicina General,90.0,85000.0,4,Domicilio
+ADM-3714,Clínica San Marcel,Triage III,Pediatría,90.0,120000.0,14,Domicilio
+ADM-3715,Clínica San Marcel,Triage II,Medicina Interna,,240000.0,84,Hospitalización
+ADM-3716,Hospital San Isidro,Triage II,Traumatología,25.0,120000.0,50,Hospitalización
+ADM-3717,Hospital San Marcos,Triage II,Pediatría,25.0,85000.0,43,Domicilio
+ADM-3718,Clínica San Marcel,Triage II,Medicina General,45.0,120000.0,18,Domicilio
+ADM-3719,Clínica San Marcel,Triage I,Pediatría,10.0,120000.0,49,Domicilio
+ADM-3720,Clínica San Marcel,Triage II,Pediatría,45.0,350000.0,50,Hospitalización
+ADM-3721,Hospital Santa Sofía,Triage III,Pediatría,45.0,120000.0,48,Remisión
+ADM-3722,Hospital San Marcos,Triage IV,Medicina General,60.0,85000.0,33,Domicilio
+ADM-3723,Hospital Infantil,Triage III,Traumatología,60.0,85000.0,58,Domicilio
+ADM-3724,Clínica San Marcel,Triage III,Pediatría,180.0,120000.0,26,Domicilio
+ADM-3725,Hospital Santa Sofía,Triage IV,Medicina General,120.0,85000.0,87,Domicilio
+ADM-3726,Clínica San Marcel,Triage II,Medicina General,25.0,240000.0,85,Domicilio
+ADM-3727,Hospital San Marcos,Triage II,Medicina Interna,60.0,85000.0,31,Domicilio
+ADM-3728,Hospital San Isidro,Triage I,Medicina Interna,10.0,120000.0,39,Domicilio
+ADM-3729,Hospital Santa Sofía,Triage III,Cirugía,60.0,240000.0,14,Remisión
+ADM-3730,Clínica San Marcel,Triage II,Medicina Interna,180.0,85000.0,46,Observación
+ADM-3731,Hospital San Marcos,Triage IV,Pediatría,25.0,85000.0,47,Observación
+ADM-3732,Hospital Santa Sofía,Triage III,Pediatría,25.0,85000.0,72,Remisión
+ADM-3733,Clínica San Marcel,Triage III,Pediatría,60.0,350000.0,58,Domicilio
+ADM-3734,Hospital San Isidro,Triage III,Medicina Interna,90.0,,34,Domicilio
+ADM-3735,Hospital San Isidro,Triage III,Pediatría,10.0,85000.0,30,Domicilio
+ADM-3736,Hospital San Isidro,Triage I,Traumatología,45.0,120000.0,19,Domicilio
+ADM-3737,Hospital Santa Sofía,Triage II,Cirugía,45.0,520000.0,35,Domicilio
+ADM-3738,Hospital San Isidro,Triage III,Medicina General,25.0,240000.0,25,Observación
+ADM-3739,Hospital Santa Sofía,Triage III,Medicina Interna,,240000.0,52,Hospitalización
+ADM-3740,Hospital Infantil,Triage II,Cirugía,,350000.0,66,Domicilio
+ADM-3741,Hospital San Isidro,Triage III,Medicina Interna,10.0,,5,Observación
+ADM-3742,Hospital Santa Sofía,Triage II,Medicina General,90.0,350000.0,10,Remisión
+ADM-3743,Hospital San Isidro,Triage III,Medicina Interna,10.0,85000.0,32,Domicilio
+ADM-3744,Clínica San Marcel,Triage I,Pediatría,,520000.0,69,Observación
+ADM-3745,Clínica San Marcel,Triage IV,Medicina Interna,45.0,120000.0,81,Observación
+ADM-3746,Hospital Santa Sofía,Triage II,Pediatría,45.0,85000.0,75,Observación
+ADM-3747,Hospital San Marcos,Triage III,Cirugía,45.0,85000.0,20,Observación
+ADM-3748,Hospital Santa Sofía,Triage III,Cirugía,,520000.0,85,Hospitalización
+ADM-3749,Clínica San Marcel,Triage II,Cirugía,90.0,520000.0,26,Hospitalización
+ADM-3750,Clínica San Marcel,Triage III,Medicina Interna,60.0,350000.0,20,Domicilio
+ADM-3751,Hospital Santa Sofía,Triage IV,Medicina General,,120000.0,16,Domicilio
+ADM-3752,Hospital Santa Sofía,Triage IV,Medicina Interna,,240000.0,81,Observación
+ADM-3753,Clínica San Marcel,Triage II,Traumatología,25.0,240000.0,19,Observación
+ADM-3754,Hospital San Isidro,Triage III,Traumatología,10.0,240000.0,46,Domicilio
+ADM-3755,Clínica San Marcel,Triage IV,Cirugía,25.0,120000.0,64,Observación
+ADM-3756,Hospital San Marcos,Triage III,Pediatría,90.0,520000.0,4,Observación
+ADM-3757,Hospital Santa Sofía,Triage IV,Medicina Interna,,85000.0,83,Domicilio
+ADM-3758,Hospital Santa Sofía,Triage I,Traumatología,25.0,,48,Remisión
+ADM-3759,Clínica San Marcel,Triage II,Cirugía,60.0,85000.0,51,Domicilio
+ADM-3760,Hospital San Isidro,Triage II,Traumatología,90.0,120000.0,75,Domicilio
+ADM-3761,Hospital Infantil,Triage I,Cirugía,10.0,85000.0,86,Domicilio
+ADM-3762,Clínica San Marcel,Triage III,Cirugía,25.0,85000.0,65,Observación
+ADM-3763,Clínica San Marcel,Triage I,Cirugía,90.0,120000.0,48,Remisión
+ADM-3764,Hospital San Marcos,Triage IV,Traumatología,45.0,120000.0,16,Domicilio
+ADM-3765,Hospital San Isidro,Triage II,Pediatría,25.0,520000.0,80,Domicilio
+ADM-3766,Hospital San Marcos,Triage IV,Cirugía,60.0,85000.0,85,Remisión
+ADM-3767,Hospital Santa Sofía,Triage II,Medicina General,90.0,240000.0,90,Domicilio
+ADM-3768,Hospital Santa Sofía,Triage III,Cirugía,25.0,120000.0,22,Remisión
+ADM-3769,Hospital San Isidro,Triage III,Cirugía,45.0,85000.0,83,Observación
+ADM-3770,Hospital Infantil,Triage IV,Traumatología,25.0,240000.0,37,Domicilio
+ADM-3771,Hospital Santa Sofía,Triage I,Medicina General,25.0,800000.0,6,Hospitalización
+ADM-3772,Hospital Infantil,Triage II,Pediatría,60.0,240000.0,28,Domicilio
+ADM-3773,Hospital Santa Sofía,Triage III,Pediatría,180.0,240000.0,67,Observación
+ADM-3774,Hospital San Isidro,Triage III,Traumatología,,520000.0,82,Domicilio
+ADM-3775,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,85000.0,12,Domicilio
+ADM-3776,Hospital San Isidro,Triage I,Traumatología,90.0,120000.0,27,Domicilio
+ADM-3777,Hospital Santa Sofía,Triage III,Medicina General,45.0,120000.0,87,Domicilio
+ADM-3778,Clínica San Marcel,Triage IV,Medicina General,25.0,120000.0,83,Domicilio
+ADM-3779,Hospital Infantil,Triage III,Medicina General,60.0,,11,Observación
+ADM-3780,Clínica San Marcel,Triage II,Traumatología,180.0,85000.0,2,Domicilio
+ADM-3781,Hospital Santa Sofía,Triage III,Medicina General,180.0,120000.0,52,Domicilio
+ADM-3782,Hospital San Marcos,Triage II,Cirugía,,120000.0,26,Domicilio
+ADM-3783,Hospital San Isidro,Triage III,Traumatología,45.0,85000.0,84,Observación
+ADM-3784,Hospital San Isidro,Triage III,Traumatología,45.0,240000.0,59,Observación
+ADM-3785,Hospital Santa Sofía,Triage III,Cirugía,25.0,85000.0,81,Domicilio
+ADM-3786,Clínica San Marcel,Triage III,Cirugía,45.0,85000.0,25,Observación
+ADM-3787,Hospital Infantil,Triage IV,Medicina General,10.0,120000.0,49,Observación
+ADM-3788,Clínica San Marcel,Triage III,Medicina General,45.0,,81,Domicilio
+ADM-3789,Hospital San Marcos,Triage III,Traumatología,90.0,85000.0,62,Observación
+ADM-3790,Hospital Santa Sofía,Triage II,Medicina General,60.0,120000.0,74,Observación
+ADM-3791,Clínica San Marcel,Triage III,Medicina General,180.0,520000.0,88,Remisión
+ADM-3792,Hospital San Marcos,Triage I,Cirugía,60.0,120000.0,76,Remisión
+ADM-3793,Hospital Infantil,Triage III,Cirugía,,240000.0,38,Observación
+ADM-3794,Clínica San Marcel,Triage I,Traumatología,,120000.0,82,Hospitalización
+ADM-3795,Hospital San Isidro,Triage IV,Pediatría,45.0,85000.0,84,Domicilio
+ADM-3796,Hospital San Isidro,Triage II,Medicina Interna,45.0,85000.0,64,Domicilio
+ADM-3797,Hospital Santa Sofía,Triage III,Medicina General,45.0,350000.0,76,Remisión
+ADM-3798,Hospital San Isidro,Triage I,Medicina Interna,180.0,120000.0,27,Domicilio
+ADM-3799,Clínica San Marcel,Triage III,Pediatría,90.0,240000.0,21,Observación
+ADM-3800,Hospital San Marcos,Triage II,Cirugía,60.0,85000.0,58,Domicilio
+ADM-3801,Hospital Infantil,Triage I,Traumatología,,120000.0,55,Hospitalización
+ADM-3802,Hospital Santa Sofía,Triage II,Medicina General,90.0,120000.0,84,Domicilio
+ADM-3803,Hospital Santa Sofía,Triage II,Cirugía,45.0,350000.0,10,Observación
+ADM-3804,Hospital Santa Sofía,Triage III,Traumatología,45.0,350000.0,79,Domicilio
+ADM-3805,Hospital San Marcos,Triage I,Pediatría,45.0,120000.0,49,Remisión
+ADM-3806,Hospital Infantil,Triage II,Cirugía,25.0,240000.0,28,Observación
+ADM-3807,Hospital San Marcos,Triage II,Pediatría,45.0,240000.0,40,Remisión
+ADM-3808,Hospital Santa Sofía,Triage III,Pediatría,25.0,120000.0,4,Domicilio
+ADM-3809,Hospital Santa Sofía,Triage II,Traumatología,25.0,240000.0,2,Domicilio
+ADM-3810,Hospital San Marcos,Triage II,Pediatría,90.0,800000.0,52,Domicilio
+ADM-3811,Hospital San Isidro,Triage I,Medicina Interna,90.0,120000.0,47,Domicilio
+ADM-3812,Hospital Santa Sofía,Triage II,Medicina General,60.0,120000.0,77,Domicilio
+ADM-3813,Hospital San Marcos,Triage II,Medicina Interna,60.0,240000.0,75,Remisión
+ADM-3814,Clínica San Marcel,Triage III,Traumatología,25.0,85000.0,15,Domicilio
+ADM-3815,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,120000.0,36,Domicilio
+ADM-3816,Hospital San Isidro,Triage IV,Cirugía,180.0,120000.0,70,Observación
+ADM-3817,Hospital Santa Sofía,Triage III,Medicina General,25.0,120000.0,65,Observación
+ADM-3818,Hospital San Isidro,Triage III,Medicina General,90.0,120000.0,57,Domicilio
+ADM-3819,Hospital San Marcos,Triage III,Medicina Interna,,120000.0,26,Domicilio
+ADM-3820,Hospital San Isidro,Triage IV,Traumatología,25.0,120000.0,40,Hospitalización
+ADM-3821,Hospital San Isidro,Triage III,Cirugía,45.0,85000.0,3,Domicilio
+ADM-3822,Clínica San Marcel,Triage II,Cirugía,25.0,240000.0,15,Domicilio
+ADM-3823,Hospital Santa Sofía,Triage IV,Medicina Interna,25.0,520000.0,3,Observación
+ADM-3824,Hospital Infantil,Triage III,Medicina Interna,45.0,800000.0,2,Remisión
+ADM-3825,Clínica San Marcel,Triage II,Medicina General,120.0,85000.0,61,Observación
+ADM-3826,Hospital Infantil,Triage II,Pediatría,25.0,800000.0,70,Observación
+ADM-3827,Hospital Santa Sofía,Triage IV,Pediatría,25.0,120000.0,57,Hospitalización
+ADM-3828,Hospital Santa Sofía,Triage III,Medicina Interna,180.0,120000.0,45,Observación
+ADM-3829,Clínica San Marcel,Triage III,Cirugía,25.0,85000.0,53,Domicilio
+ADM-3830,Hospital San Isidro,Triage III,Medicina General,45.0,240000.0,19,Domicilio
+ADM-3831,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,800000.0,51,Remisión
+ADM-3832,Hospital San Isidro,Triage III,Medicina General,60.0,240000.0,73,Observación
+ADM-3833,Hospital Santa Sofía,Triage II,Traumatología,45.0,120000.0,13,Observación
+ADM-3834,Clínica San Marcel,Triage IV,Medicina General,10.0,85000.0,5,Hospitalización
+ADM-3835,Clínica San Marcel,Triage III,Cirugía,45.0,120000.0,75,Domicilio
+ADM-3836,Clínica San Marcel,Triage IV,Medicina General,180.0,85000.0,47,Hospitalización
+ADM-3837,Hospital Santa Sofía,Triage IV,Pediatría,60.0,240000.0,54,Hospitalización
+ADM-3838,Hospital Santa Sofía,Triage III,Medicina General,45.0,120000.0,42,Domicilio
+ADM-3839,Hospital San Marcos,Triage IV,Pediatría,45.0,350000.0,75,Hospitalización
+ADM-3840,Hospital San Marcos,Triage IV,Medicina General,25.0,120000.0,19,Domicilio
+ADM-3841,Hospital Santa Sofía,Triage III,Medicina General,90.0,120000.0,45,Domicilio
+ADM-3842,Hospital Santa Sofía,Triage IV,Medicina General,60.0,120000.0,4,Observación
+ADM-3843,Clínica San Marcel,Triage III,Medicina Interna,45.0,800000.0,14,Observación
+ADM-3844,Hospital San Isidro,Triage II,Traumatología,,520000.0,52,Remisión
+ADM-3845,Hospital San Isidro,Triage III,Traumatología,45.0,240000.0,3,Domicilio
+ADM-3846,Hospital San Marcos,Triage II,Medicina General,25.0,350000.0,43,Domicilio
+ADM-3847,Hospital San Isidro,Triage III,Cirugía,90.0,240000.0,42,Remisión
+ADM-3848,Hospital Santa Sofía,Triage I,Medicina General,60.0,240000.0,18,Remisión
+ADM-3849,Hospital Santa Sofía,Triage IV,Medicina General,45.0,240000.0,4,Domicilio
+ADM-3850,Hospital San Isidro,Triage II,Cirugía,10.0,120000.0,31,Domicilio
+ADM-3851,Hospital Infantil,Triage III,Medicina Interna,120.0,800000.0,68,Remisión
+ADM-3852,Hospital Infantil,Triage I,Pediatría,25.0,240000.0,73,Hospitalización
+ADM-3853,Hospital Infantil,Triage IV,Medicina Interna,180.0,85000.0,76,Remisión
+ADM-3854,Hospital San Isidro,Triage IV,Traumatología,25.0,240000.0,37,Domicilio
+ADM-3855,Clínica San Marcel,Triage III,Traumatología,45.0,240000.0,58,Domicilio
+ADM-3856,Clínica San Marcel,Triage III,Traumatología,120.0,120000.0,62,Domicilio
+ADM-3857,Hospital Infantil,Triage II,Cirugía,60.0,120000.0,48,Hospitalización
+ADM-3858,Hospital Santa Sofía,Triage III,Medicina General,45.0,120000.0,40,Observación
+ADM-3859,Hospital San Marcos,Triage IV,Medicina General,25.0,120000.0,28,Observación
+ADM-3860,Hospital San Marcos,Triage IV,Cirugía,10.0,85000.0,64,Observación
+ADM-3861,Clínica San Marcel,Triage III,Cirugía,45.0,85000.0,88,Observación
+ADM-3862,Clínica San Marcel,Triage III,Cirugía,25.0,520000.0,88,Domicilio
+ADM-3863,Hospital San Isidro,Triage II,Traumatología,10.0,240000.0,37,Hospitalización
+ADM-3864,Clínica San Marcel,Triage IV,Pediatría,45.0,350000.0,56,Hospitalización
+ADM-3865,Hospital San Isidro,Triage III,Pediatría,90.0,120000.0,67,Remisión
+ADM-3866,Hospital Santa Sofía,Triage III,Cirugía,45.0,85000.0,49,Domicilio
+ADM-3867,Hospital Infantil,Triage I,Pediatría,120.0,120000.0,27,Domicilio
+ADM-3868,Hospital San Isidro,Triage IV,Cirugía,45.0,800000.0,49,Observación
+ADM-3869,Hospital Infantil,Triage II,Medicina General,45.0,120000.0,45,Observación
+ADM-3870,Hospital Santa Sofía,Triage II,Pediatría,,240000.0,83,Domicilio
+ADM-3871,Hospital San Isidro,Triage III,Medicina Interna,45.0,,73,Observación
+ADM-3872,Hospital San Isidro,Triage II,Traumatología,45.0,120000.0,81,Domicilio
+ADM-3873,Hospital Santa Sofía,Triage III,Medicina General,45.0,,82,Domicilio
+ADM-3874,Clínica San Marcel,Triage III,Cirugía,60.0,85000.0,4,Domicilio
+ADM-3875,Hospital San Marcos,Triage III,Cirugía,60.0,85000.0,54,Domicilio
+ADM-3876,Hospital Santa Sofía,Triage III,Traumatología,120.0,85000.0,64,Domicilio
+ADM-3877,Hospital Santa Sofía,Triage I,Pediatría,90.0,85000.0,58,Domicilio
+ADM-3878,Hospital Santa Sofía,Triage III,Pediatría,10.0,350000.0,29,Observación
+ADM-3879,Hospital San Isidro,Triage III,Medicina Interna,60.0,120000.0,84,Observación
+ADM-3880,Clínica San Marcel,Triage I,Medicina Interna,10.0,120000.0,42,Remisión
+ADM-3881,Hospital San Marcos,Triage III,Pediatría,10.0,120000.0,7,Domicilio
+ADM-3882,Hospital Infantil,Triage II,Cirugía,60.0,85000.0,48,Domicilio
+ADM-3883,Hospital Santa Sofía,Triage III,Medicina Interna,25.0,,73,Domicilio
+ADM-3884,Hospital Infantil,Triage III,Medicina Interna,60.0,520000.0,59,Hospitalización
+ADM-3885,Hospital Infantil,Triage II,Medicina Interna,10.0,520000.0,55,Domicilio
+ADM-3886,Hospital Infantil,Triage III,Medicina General,90.0,120000.0,35,Domicilio
+ADM-3887,Hospital San Isidro,Triage III,Pediatría,,350000.0,54,Domicilio
+ADM-3888,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,120000.0,88,Domicilio
+ADM-3889,Hospital Santa Sofía,Triage III,Cirugía,10.0,85000.0,78,Domicilio
+ADM-3890,Hospital San Marcos,Triage I,Traumatología,60.0,800000.0,82,Domicilio
+ADM-3891,Clínica San Marcel,Triage III,Medicina Interna,120.0,120000.0,14,Domicilio
+ADM-3892,Hospital Santa Sofía,Triage II,Cirugía,25.0,85000.0,29,Domicilio
+ADM-3893,Clínica San Marcel,Triage III,Medicina Interna,45.0,120000.0,39,Hospitalización
+ADM-3894,Hospital Infantil,Triage I,Pediatría,45.0,85000.0,70,Domicilio
+ADM-3895,Hospital San Isidro,Triage III,Cirugía,25.0,85000.0,68,Domicilio
+ADM-3896,Hospital Santa Sofía,Triage III,Pediatría,25.0,120000.0,28,Domicilio
+ADM-3897,Hospital Infantil,Triage III,Traumatología,10.0,120000.0,72,Remisión
+ADM-3898,Clínica San Marcel,Triage III,Cirugía,25.0,85000.0,48,Observación
+ADM-3899,Hospital San Marcos,Triage II,Traumatología,45.0,240000.0,36,Domicilio
+ADM-3900,Clínica San Marcel,Triage IV,Pediatría,25.0,120000.0,61,Observación
+ADM-3901,Hospital San Isidro,Triage II,Medicina General,10.0,520000.0,23,Domicilio
+ADM-3902,Clínica San Marcel,Triage III,Medicina General,10.0,85000.0,59,Domicilio
+ADM-3903,Clínica San Marcel,Triage II,Cirugía,25.0,120000.0,75,Domicilio
+ADM-3904,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,240000.0,24,Domicilio
+ADM-3905,Hospital San Isidro,Triage III,Medicina General,90.0,85000.0,7,Domicilio
+ADM-3906,Hospital Infantil,Triage III,Medicina General,45.0,350000.0,54,Domicilio
+ADM-3907,Hospital Santa Sofía,Triage II,Traumatología,25.0,85000.0,24,Observación
+ADM-3908,Hospital Infantil,Triage III,Traumatología,45.0,85000.0,40,Domicilio
+ADM-3909,Hospital Infantil,Triage II,Medicina General,25.0,350000.0,75,Remisión
+ADM-3910,Hospital San Isidro,Triage III,Cirugía,10.0,85000.0,48,Domicilio
+ADM-3911,Hospital Infantil,Triage II,Pediatría,25.0,520000.0,51,Hospitalización
+ADM-3912,Hospital Infantil,Triage I,Medicina Interna,45.0,350000.0,14,Observación
+ADM-3913,Hospital San Isidro,Triage III,Pediatría,45.0,120000.0,30,Remisión
+ADM-3914,Hospital San Marcos,Triage III,Traumatología,10.0,120000.0,80,Domicilio
+ADM-3915,Clínica San Marcel,Triage III,Cirugía,25.0,120000.0,31,Hospitalización
+ADM-3916,Hospital San Marcos,Triage III,Traumatología,60.0,240000.0,48,Hospitalización
+ADM-3917,Hospital San Isidro,Triage IV,Traumatología,45.0,520000.0,34,Hospitalización
+ADM-3918,Hospital Infantil,Triage III,Medicina Interna,45.0,85000.0,36,Observación
+ADM-3919,Hospital San Isidro,Triage II,Medicina General,10.0,240000.0,29,Remisión
+ADM-3920,Hospital Santa Sofía,Triage IV,Medicina General,25.0,120000.0,27,Domicilio
+ADM-3921,Hospital San Marcos,Triage I,Traumatología,45.0,85000.0,54,Domicilio
+ADM-3922,Hospital Santa Sofía,Triage II,Traumatología,45.0,85000.0,36,Hospitalización
+ADM-3923,Hospital Infantil,Triage IV,Pediatría,60.0,120000.0,83,Domicilio
+ADM-3924,Hospital Santa Sofía,Triage IV,Cirugía,45.0,85000.0,17,Domicilio
+ADM-3925,Hospital San Marcos,Triage IV,Pediatría,60.0,120000.0,84,Remisión
+ADM-3926,Hospital Santa Sofía,Triage II,Medicina Interna,25.0,120000.0,4,Hospitalización
+ADM-3927,Hospital San Marcos,Triage IV,Medicina Interna,90.0,350000.0,10,Hospitalización
+ADM-3928,Clínica San Marcel,Triage IV,Medicina Interna,10.0,85000.0,16,Domicilio
+ADM-3929,Hospital Infantil,Triage II,Traumatología,45.0,120000.0,11,Hospitalización
+ADM-3930,Hospital San Marcos,Triage IV,Medicina Interna,25.0,120000.0,42,Domicilio
+ADM-3931,Hospital San Isidro,Triage III,Medicina Interna,90.0,350000.0,34,Domicilio
+ADM-3932,Clínica San Marcel,Triage III,Traumatología,45.0,120000.0,57,Observación
+ADM-3933,Hospital Santa Sofía,Triage III,Medicina General,45.0,350000.0,74,Domicilio
+ADM-3934,Hospital San Isidro,Triage III,Traumatología,45.0,520000.0,80,Domicilio
+ADM-3935,Hospital Santa Sofía,Triage III,Pediatría,45.0,85000.0,10,Hospitalización
+ADM-3936,Hospital San Isidro,Triage II,Medicina General,45.0,350000.0,6,Domicilio
+ADM-3937,Hospital San Marcos,Triage III,Traumatología,45.0,350000.0,13,Domicilio
+ADM-3938,Hospital San Isidro,Triage III,Traumatología,25.0,85000.0,88,Hospitalización
+ADM-3939,Hospital Santa Sofía,Triage II,Traumatología,25.0,240000.0,79,Domicilio
+ADM-3940,Hospital Santa Sofía,Triage IV,Medicina General,60.0,120000.0,69,Domicilio
+ADM-3941,Clínica San Marcel,Triage III,Traumatología,60.0,120000.0,31,Domicilio
+ADM-3942,Hospital Infantil,Triage I,Traumatología,60.0,240000.0,49,Domicilio
+ADM-3943,Hospital Santa Sofía,Triage II,Cirugía,10.0,120000.0,85,Remisión
+ADM-3944,Hospital Santa Sofía,Triage III,Medicina Interna,45.0,240000.0,75,Domicilio
+ADM-3945,Clínica San Marcel,Triage III,Traumatología,45.0,240000.0,7,Remisión
+ADM-3946,Hospital Santa Sofía,Triage IV,Medicina General,45.0,350000.0,15,Domicilio
+ADM-3947,Hospital San Marcos,Triage IV,Medicina General,25.0,350000.0,3,Observación
+ADM-3948,Hospital Infantil,Triage II,Traumatología,45.0,240000.0,46,Domicilio
+ADM-3949,Clínica San Marcel,Triage II,Pediatría,90.0,520000.0,66,Hospitalización
+ADM-3950,Hospital Infantil,Triage III,Medicina General,45.0,800000.0,7,Remisión
+ADM-3951,Hospital Infantil,Triage III,Traumatología,25.0,240000.0,87,Hospitalización
+ADM-3952,Hospital Infantil,Triage II,Traumatología,45.0,120000.0,39,Domicilio
+ADM-3953,Hospital Santa Sofía,Triage II,Cirugía,45.0,120000.0,54,Domicilio
+ADM-3954,Hospital San Isidro,Triage III,Medicina General,45.0,85000.0,46,Domicilio
+ADM-3955,Clínica San Marcel,Triage III,Pediatría,60.0,240000.0,47,Domicilio
+ADM-3956,Hospital Santa Sofía,Triage III,Cirugía,45.0,85000.0,31,Remisión
+ADM-3957,Hospital San Marcos,Triage II,Traumatología,45.0,240000.0,48,Remisión
+ADM-3958,Hospital Infantil,Triage III,Traumatología,180.0,120000.0,74,Domicilio
+ADM-3959,Clínica San Marcel,Triage I,Medicina General,60.0,120000.0,3,Domicilio
+ADM-3960,Clínica San Marcel,Triage III,Traumatología,60.0,240000.0,67,Hospitalización
+ADM-3961,Hospital Infantil,Triage II,Medicina General,45.0,120000.0,60,Domicilio
+ADM-3962,Hospital San Marcos,Triage I,Medicina General,45.0,240000.0,89,Remisión
+ADM-3963,Hospital Infantil,Triage III,Medicina Interna,60.0,350000.0,49,Domicilio
+ADM-3964,Clínica San Marcel,Triage IV,Cirugía,180.0,240000.0,18,Domicilio
+ADM-3965,Hospital Santa Sofía,Triage II,Pediatría,10.0,120000.0,37,Domicilio
+ADM-3966,Hospital San Isidro,Triage IV,Traumatología,25.0,120000.0,61,Domicilio
+ADM-3967,Hospital Infantil,Triage IV,Traumatología,25.0,85000.0,52,Domicilio
+ADM-3968,Hospital Infantil,Triage II,Medicina Interna,,120000.0,8,Domicilio
+ADM-3969,Hospital San Isidro,Triage III,Medicina Interna,90.0,240000.0,7,Domicilio
+ADM-3970,Hospital Santa Sofía,Triage III,Medicina Interna,60.0,120000.0,43,Domicilio
+ADM-3971,Clínica San Marcel,Triage III,Medicina General,45.0,120000.0,33,Domicilio
+ADM-3972,Hospital San Isidro,Triage IV,Cirugía,,85000.0,43,Domicilio
+ADM-3973,Hospital Infantil,Triage III,Traumatología,45.0,120000.0,78,Hospitalización
+ADM-3974,Hospital Santa Sofía,Triage IV,Pediatría,45.0,520000.0,13,Observación
+ADM-3975,Hospital San Marcos,Triage III,Medicina Interna,60.0,240000.0,52,Domicilio
+ADM-3976,Hospital Infantil,Triage II,Traumatología,180.0,520000.0,12,Domicilio
+ADM-3977,Hospital San Marcos,Triage III,Medicina Interna,60.0,240000.0,3,Domicilio
+ADM-3978,Hospital San Isidro,Triage II,Medicina Interna,25.0,350000.0,30,Observación
+ADM-3979,Hospital San Marcos,Triage II,Medicina Interna,45.0,240000.0,88,Hospitalización
+ADM-3980,Hospital Santa Sofía,Triage IV,Pediatría,45.0,120000.0,79,Domicilio
+ADM-3981,Clínica San Marcel,Triage II,Traumatología,25.0,350000.0,55,Domicilio
+ADM-3982,Hospital San Isidro,Triage II,Cirugía,60.0,85000.0,63,Domicilio
+ADM-3983,Hospital Infantil,Triage III,Pediatría,25.0,350000.0,12,Hospitalización
+ADM-3984,Hospital Infantil,Triage III,Medicina Interna,25.0,350000.0,9,Hospitalización
+ADM-3985,Clínica San Marcel,Triage I,Medicina General,,520000.0,32,Domicilio
+ADM-3986,Hospital San Isidro,Triage I,Cirugía,45.0,800000.0,4,Domicilio
+ADM-3987,Hospital San Isidro,Triage II,Medicina General,45.0,120000.0,36,Domicilio
+ADM-3988,Hospital Infantil,Triage III,Medicina Interna,45.0,120000.0,2,Domicilio
+ADM-3989,Hospital Santa Sofía,Triage III,Pediatría,45.0,520000.0,23,Domicilio
+ADM-3990,Clínica San Marcel,Triage III,Pediatría,10.0,85000.0,52,Domicilio
+ADM-3991,Hospital Infantil,Triage III,Cirugía,90.0,120000.0,18,Domicilio
+ADM-3992,Hospital Santa Sofía,Triage II,Traumatología,25.0,240000.0,73,Domicilio
+ADM-3993,Clínica San Marcel,Triage IV,Traumatología,60.0,350000.0,57,Domicilio
+ADM-3994,Hospital Infantil,Triage III,Cirugía,45.0,120000.0,58,Remisión
+ADM-3995,Clínica San Marcel,Triage IV,Medicina Interna,90.0,240000.0,6,Domicilio
+ADM-3996,Hospital Infantil,Triage IV,Medicina General,90.0,240000.0,48,Domicilio
+ADM-3997,Hospital Infantil,Triage II,Medicina General,25.0,240000.0,11,Observación
+ADM-3998,Hospital Santa Sofía,Triage IV,Cirugía,60.0,350000.0,76,Hospitalización
+ADM-3999,Hospital San Isidro,Triage III,Medicina Interna,120.0,85000.0,30,Observación
+ADM-4000,Hospital Infantil,Triage III,Cirugía,,120000.0,4,Remisión
+ADM-3041,Hospital Infantil,Triage I,Medicina Interna,25.0,85000.0,72,Domicilio
+ADM-3042,Hospital Infantil,Triage III,Pediatría,10.0,85000.0,80,Observación
+ADM-3043,Hospital Infantil,Triage III,Traumatología,10.0,240000.0,68,Observación
+ADM-3044,Hospital San Marcos,Triage III,Pediatría,45.0,240000.0,5,Domicilio
+ADM-3045,Hospital Infantil,Triage III,Pediatría,45.0,85000.0,73,Domicilio
+ADM-3046,Clínica San Marcel,Triage III,Pediatría,60.0,800000.0,21,Domicilio
+ADM-3047,Clínica San Marcel,Triage III,Cirugía,120.0,120000.0,57,Domicilio
+ADM-3048,Clínica San Marcel,Triage II,Pediatría,25.0,85000.0,71,Domicilio
+ADM-3049,Hospital Infantil,Triage III,Pediatría,60.0,85000.0,50,Remisión
+ADM-3050,Hospital Infantil,Triage II,Cirugía,25.0,240000.0,59,Domicilio
